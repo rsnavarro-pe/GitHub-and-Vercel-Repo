@@ -1,0 +1,380 @@
+[
+  {
+    "description": "Unit Converter · a RSN Engineering Tool",
+    "isPrivate": true,
+    "name": "Unit-Converter",
+    "updatedAt": "2026-11-10T02:07:32Z",
+    "url": "https://github.com/rsnavarro-pe/Unit-Converter"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "ComboCalculator",
+    "updatedAt": "2026-11-10T01:10:31Z",
+    "url": "https://github.com/rsnavarro-pe/ComboCalculator"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "GIS-Workbench",
+    "updatedAt": "2026-11-09T23:54:38Z",
+    "url": "https://github.com/rsnavarro-pe/GIS-Workbench"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Advanced-GIS-Workbench",
+    "updatedAt": "2026-11-09T23:51:13Z",
+    "url": "https://github.com/rsnavarro-pe/Advanced-GIS-Workbench"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "csv-purifier-studio",
+    "updatedAt": "2026-11-09T23:49:44Z",
+    "url": "https://github.com/rsnavarro-pe/csv-purifier-studio"
+  },
+  {
+    "description": "RSN Incompressible Fluid Mechanics Toolkit: 51 interactive civil engineering calculators, 100% responsive dynamic SVGs, and 205 automated benchmark tests.",
+    "isPrivate": true,
+    "name": "Fluid-Mechanics",
+    "updatedAt": "2026-11-05T14:48:47Z",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Partially-Full-Pipe-Flow",
+    "updatedAt": "2026-11-02T01:22:13Z",
+    "url": "https://github.com/rsnavarro-pe/Partially-Full-Pipe-Flow"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Sharp-Crested-Weir",
+    "updatedAt": "2026-11-02T01:22:08Z",
+    "url": "https://github.com/rsnavarro-pe/Sharp-Crested-Weir"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Time-of-Concentration",
+    "updatedAt": "2026-11-02T01:22:02Z",
+    "url": "https://github.com/rsnavarro-pe/Time-of-Concentration"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Orifice-Calculator",
+    "updatedAt": "2026-11-02T01:21:58Z",
+    "url": "https://github.com/rsnavarro-pe/Orifice-Calculator"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Storm-Inlet-Capacity",
+    "updatedAt": "2026-11-02T01:21:54Z",
+    "url": "https://github.com/rsnavarro-pe/Storm-Inlet-Capacity"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Broad-Crested-Weir",
+    "updatedAt": "2026-11-02T01:21:49Z",
+    "url": "https://github.com/rsnavarro-pe/Broad-Crested-Weir"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Weir-Calculator",
+    "updatedAt": "2026-11-02T01:21:46Z",
+    "url": "https://github.com/rsnavarro-pe/Weir-Calculator"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Circular-Culvert",
+    "updatedAt": "2026-11-02T01:21:42Z",
+    "url": "https://github.com/rsnavarro-pe/Circular-Culvert"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Uniform-Open-Channel",
+    "updatedAt": "2026-11-02T01:21:38Z",
+    "url": "https://github.com/rsnavarro-pe/Uniform-Open-Channel"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "SFWMD-Flood-Routing",
+    "updatedAt": "2026-11-02T00:11:04Z",
+    "url": "https://github.com/rsnavarro-pe/SFWMD-Flood-Routing"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "SFWMD-Methodology",
+    "updatedAt": "2026-11-02T00:11:08Z",
+    "url": "https://github.com/rsnavarro-pe/SFWMD-Methodology"
+  },
+  {
+    "description": "RSN Pipe Network Toolkit (single-file EPANET-style app)",
+    "isPrivate": true,
+    "name": "EPANET_Toolkit",
+    "updatedAt": "2026-10-30T20:43:05Z",
+    "url": "https://github.com/rsnavarro-pe/EPANET_Toolkit"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "RSN-SWMM-Toolkit",
+    "updatedAt": "2026-10-30T21:24:18Z",
+    "url": "https://github.com/rsnavarro-pe/RSN-SWMM-Toolkit"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "EPANET-File-Converter",
+    "updatedAt": "2026-10-30T20:21:09Z",
+    "url": "https://github.com/rsnavarro-pe/EPANET-File-Converter"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Storm-Drain",
+    "updatedAt": "2026-10-30T12:43:45Z",
+    "url": "https://github.com/rsnavarro-pe/Storm-Drain"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "EPANET-Solver",
+    "updatedAt": "2026-10-25T01:27:24Z",
+    "url": "https://github.com/rsnavarro-pe/EPANET-Solver"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "pipeline-hydraulics",
+    "updatedAt": "2026-10-23T09:05:21Z",
+    "url": "https://github.com/rsnavarro-pe/pipeline-hydraulics"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Lift-Station-Design",
+    "updatedAt": "2026-10-22T13:17:36Z",
+    "url": "https://github.com/rsnavarro-pe/Lift-Station-Design"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "LS-BCWWS-Simple",
+    "updatedAt": "2026-10-22T13:09:12Z",
+    "url": "https://github.com/rsnavarro-pe/LS-BCWWS-Simple"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "My_Professional_Website",
+    "updatedAt": "2026-10-21T11:44:11Z",
+    "url": "https://github.com/rsnavarro-pe/My_Professional_Website"
+  },
+  {
+    "description": "folder explorer dashboard - categorize contents of a folder",
+    "isPrivate": true,
+    "name": "Folder_Explorer",
+    "updatedAt": "2026-10-19T21:43:22Z",
+    "url": "https://github.com/rsnavarro-pe/Folder_Explorer"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Mobile-Folder-Pro",
+    "updatedAt": "2026-10-19T21:43:17Z",
+    "url": "https://github.com/rsnavarro-pe/Mobile-Folder-Pro"
+  },
+  {
+    "description": "Project Management Suite",
+    "isPrivate": true,
+    "name": "Project-Management-Suite",
+    "updatedAt": "2026-10-19T21:43:08Z",
+    "url": "https://github.com/rsnavarro-pe/Project-Management-Suite"
+  },
+  {
+    "description": "water meter installation",
+    "isPrivate": true,
+    "name": "water_meter_install",
+    "updatedAt": "2026-10-19T21:43:01Z",
+    "url": "https://github.com/rsnavarro-pe/water_meter_install"
+  },
+  {
+    "description": "construction daily report",
+    "isPrivate": true,
+    "name": "construction-daily",
+    "updatedAt": "2026-10-19T21:42:55Z",
+    "url": "https://github.com/rsnavarro-pe/construction-daily"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Project_Manager",
+    "updatedAt": "2026-10-19T21:42:48Z",
+    "url": "https://github.com/rsnavarro-pe/Project_Manager"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Local_Drive_Dashboard",
+    "updatedAt": "2026-10-19T21:42:42Z",
+    "url": "https://github.com/rsnavarro-pe/Local_Drive_Dashboard"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "File_Folder_Pro",
+    "updatedAt": "2026-10-19T21:42:35Z",
+    "url": "https://github.com/rsnavarro-pe/File_Folder_Pro"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "PayApp-Tracker",
+    "updatedAt": "2026-10-19T21:22:13Z",
+    "url": "https://github.com/rsnavarro-pe/PayApp-Tracker"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Non-Uniform-Flow",
+    "updatedAt": "2026-10-19T21:22:02Z",
+    "url": "https://github.com/rsnavarro-pe/Non-Uniform-Flow"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Flow-of-Water",
+    "updatedAt": "2026-10-19T21:21:59Z",
+    "url": "https://github.com/rsnavarro-pe/Flow-of-Water"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Pump-Station",
+    "updatedAt": "2026-10-19T21:21:57Z",
+    "url": "https://github.com/rsnavarro-pe/Pump-Station"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "HGL-and-EGL",
+    "updatedAt": "2026-10-19T21:21:52Z",
+    "url": "https://github.com/rsnavarro-pe/HGL-and-EGL"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "HW-Pipe-Flow",
+    "updatedAt": "2026-10-19T21:21:52Z",
+    "url": "https://github.com/rsnavarro-pe/HW-Pipe-Flow"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Incompressible-Orifice-Flow",
+    "updatedAt": "2026-10-19T21:21:47Z",
+    "url": "https://github.com/rsnavarro-pe/Incompressible-Orifice-Flow"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "RSN-Calculator",
+    "updatedAt": "2026-10-19T21:21:46Z",
+    "url": "https://github.com/rsnavarro-pe/RSN-Calculator"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "EPANET-Data-Builder",
+    "updatedAt": "2026-10-19T21:21:45Z",
+    "url": "https://github.com/rsnavarro-pe/EPANET-Data-Builder"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "LS-BCWWS-Advanced",
+    "updatedAt": "2026-10-20T08:26:48Z",
+    "url": "https://github.com/rsnavarro-pe/LS-BCWWS-Advanced"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Meter-Consumption",
+    "updatedAt": "2026-10-19T21:21:36Z",
+    "url": "https://github.com/rsnavarro-pe/Meter-Consumption"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Leak-Calculator",
+    "updatedAt": "2026-10-19T21:21:34Z",
+    "url": "https://github.com/rsnavarro-pe/Leak-Calculator"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Water-Demand",
+    "updatedAt": "2026-10-19T21:21:29Z",
+    "url": "https://github.com/rsnavarro-pe/Water-Demand"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Shapefile-Viewer",
+    "updatedAt": "2026-10-19T21:21:28Z",
+    "url": "https://github.com/rsnavarro-pe/Shapefile-Viewer"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Personal-Wikipedia",
+    "updatedAt": "2026-10-18T17:16:19Z",
+    "url": "https://github.com/rsnavarro-pe/Personal-Wikipedia"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Pressurized-Flow",
+    "updatedAt": "2026-07-10T09:29:29Z",
+    "url": "https://github.com/rsnavarro-pe/Pressurized-Flow"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Hydrology-Calculator",
+    "updatedAt": "2026-07-08T01:25:48Z",
+    "url": "https://github.com/rsnavarro-pe/Hydrology-Calculator"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "My_Portfolio",
+    "updatedAt": "2026-06-15T08:46:08Z",
+    "url": "https://github.com/rsnavarro-pe/My_Portfolio"
+  },
+  {
+    "description": "",
+    "isPrivate": true,
+    "name": "Engineering_Resources",
+    "updatedAt": "2026-06-14T17:40:32Z",
+    "url": "https://github.com/rsnavarro-pe/Engineering_Resources"
+  },
+  {
+    "description": "Centralized library of custom Claude Code skills across multiple computers",
+    "isPrivate": true,
+    "name": "Claude-skills",
+    "updatedAt": "2026-04-28T09:33:45Z",
+    "url": "https://github.com/rsnavarro-pe/Claude-skills"
+  }
+]
