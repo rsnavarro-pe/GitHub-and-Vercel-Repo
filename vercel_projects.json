@@ -1,48 +1,69 @@
 [
   {
-    "id": "prj_HNFmAzF12NMqHe1bxgk3zEkHnQnY",
-    "name": "unit-converter",
-    "framework": null,
-    "nodeVersion": "26.x",
-    "liveUrl": "https://unit-converter-rho-beige.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/unit-converter",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Unit-Converter",
-      "url": "https://github.com/rsnavarro-pe/Unit-Converter"
-    },
-    "updatedAt": "2026-11-10T02:07:31.642Z",
-    "createdAt": "2026-11-10T02:06:19.875Z"
-  },
-  {
-    "id": "prj_dYtfJqfGmRIJCyZk75vDG06g5G46",
-    "name": "gis-workbench",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://gis-workbench-beryl.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/gis-workbench",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/GIS-Workbench",
-      "url": "https://github.com/rsnavarro-pe/GIS-Workbench"
-    },
-    "updatedAt": "2026-11-09T23:54:38.898Z",
-    "createdAt": "2026-07-16T02:15:32.073Z"
-  },
-  {
     "id": "prj_ZoEOcKMGjNcUV5HU9RR8pco5OrLz",
     "name": "advanced-gis-workbench",
-    "framework": null,
+    "framework": "Other",
     "nodeVersion": "24.x",
     "liveUrl": "https://advanced-gis-workbench.vercel.app",
     "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/advanced-gis-workbench",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Advanced-GIS-Workbench",
-      "url": "https://github.com/rsnavarro-pe/Advanced-GIS-Workbench"
-    },
-    "updatedAt": "2026-11-09T23:51:14.753Z",
-    "createdAt": "2026-07-17T13:39:44.206Z"
+    "gitRepo": "rsnavarro-pe/Advanced-GIS-Workbench",
+    "gitUrl": "https://github.com/rsnavarro-pe/Advanced-GIS-Workbench",
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": "prj_HAvGS2G0RelZXC0vV80PFVdSKvUO",
+    "name": "broad-crested-weir",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://broad-crested-weir.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/broad-crested-weir",
+    "gitRepo": "rsnavarro-pe/Broad-Crested-Weir",
+    "gitUrl": "https://github.com/rsnavarro-pe/Broad-Crested-Weir",
+    "updatedAt": "2026-11-02"
+  },
+  {
+    "id": "prj_zXzE2RGlcID4ldwWQvx8ffaaXgq3",
+    "name": "circular-culvert",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://circular-culvert.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/circular-culvert",
+    "gitRepo": "rsnavarro-pe/Circular-Culvert",
+    "gitUrl": "https://github.com/rsnavarro-pe/Circular-Culvert",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_B4g4GruwE7vdgIprW9xy7Z00ar6L",
+    "name": "claude-skills",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://claude-skills-umber.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/claude-skills",
+    "gitRepo": "rsnavarro-pe/Claude-skills",
+    "gitUrl": "https://github.com/rsnavarro-pe/Claude-skills",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_VDfndKUUkFZLSrT60KMN0u8h5tj7",
+    "name": "combocalculator",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://combocalculator-pi.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/combocalculator",
+    "gitRepo": "rsnavarro-pe/ComboCalculator",
+    "gitUrl": "https://github.com/rsnavarro-pe/ComboCalculator",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_LLk9KFuqvZLoXmbvmc51VMSoMlbb",
+    "name": "construction-daily",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://construction-daily.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/construction-daily",
+    "gitRepo": "rsnavarro-pe/construction-daily",
+    "gitUrl": "https://github.com/rsnavarro-pe/construction-daily",
+    "updatedAt": "2026-10-19"
   },
   {
     "id": "prj_aqDC5vnrWTOT9Et8ycA1UxJ6epZw",
@@ -51,443 +72,602 @@
     "nodeVersion": "26.x",
     "liveUrl": "https://csv-purifier-studio.vercel.app",
     "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/csv-purifier-studio",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/csv-purifier-studio",
-      "url": "https://github.com/rsnavarro-pe/csv-purifier-studio"
-    },
-    "updatedAt": "2026-11-09T23:49:46.193Z",
-    "createdAt": "2026-11-06T12:24:03.015Z"
+    "gitRepo": "rsnavarro-pe/csv-purifier-studio",
+    "gitUrl": "https://github.com/rsnavarro-pe/csv-purifier-studio",
+    "updatedAt": "2026-11-09"
   },
   {
-    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA",
-    "name": "fluid-mechanics",
-    "framework": null,
+    "id": "prj_UQHCaUPbg3ofHRv4gW4fsPViWwK2",
+    "name": "engineering-resources",
+    "framework": "Other",
     "nodeVersion": "26.x",
-    "liveUrl": "https://fluid-mechanics-seven.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Fluid-Mechanics",
-      "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics"
-    },
-    "updatedAt": "2026-11-05T14:48:57.305Z",
-    "createdAt": "2026-11-02T08:49:45.493Z"
+    "liveUrl": "https://engineering-resources-one.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/engineering-resources",
+    "gitRepo": "rsnavarro-pe/Engineering_Resources",
+    "gitUrl": "https://github.com/rsnavarro-pe/Engineering_Resources",
+    "updatedAt": "2026-11-10"
   },
   {
-    "id": "prj_atma8wqwwVqU5E5caJ0glK5jpaah",
-    "name": "sharp-crested-weir",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://sharp-crested-weir.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/sharp-crested-weir",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Sharp-Crested-Weir",
-      "url": "https://github.com/rsnavarro-pe/Sharp-Crested-Weir"
-    },
-    "updatedAt": "2026-11-02T01:22:08.079Z",
-    "createdAt": "2026-07-12T21:32:33.349Z"
-  },
-  {
-    "id": "prj_HAvGS2G0RelZXC0vV80PFVdSKvUO",
-    "name": "broad-crested-weir",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://broad-crested-weir.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/broad-crested-weir",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Broad-Crested-Weir",
-      "url": "https://github.com/rsnavarro-pe/Broad-Crested-Weir"
-    },
-    "updatedAt": "2026-11-02T01:21:51.380Z",
-    "createdAt": "2026-07-12T21:32:54.256Z"
-  },
-  {
-    "id": "prj_gSBaqG6MRrnuyv9DPPViJshGQ3tm",
-    "name": "epanet-toolkit",
-    "framework": null,
+    "id": "prj_hjqtdnndhAfyXs0skEvGiaNMkqvP",
+    "name": "epanet-data-builder",
+    "framework": "Other",
     "nodeVersion": "26.x",
-    "liveUrl": "https://epanet-toolkit.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-toolkit",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/EPANET_Toolkit",
-      "url": "https://github.com/rsnavarro-pe/EPANET_Toolkit"
-    },
-    "updatedAt": "2026-10-30T21:27:09.944Z",
-    "createdAt": "2026-10-30T20:51:26.431Z"
-  },
-  {
-    "id": "prj_mwZgNYPZPCO2T1B9SohZNGdXv7c6",
-    "name": "rsn-swmm-toolkit",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://rsn-swmm-toolkit.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rsn-swmm-toolkit",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/RSN-SWMM-Toolkit",
-      "url": "https://github.com/rsnavarro-pe/RSN-SWMM-Toolkit"
-    },
-    "updatedAt": "2026-10-30T21:24:23.864Z",
-    "createdAt": "2026-10-29T12:47:31.897Z"
-  },
-  {
-    "id": "prj_RsNy0GxEiGTuc9b6Cg50W9j4aHYz",
-    "name": "watergems-to-epanet-converter",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://watergems-to-epanet-converter.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/watergems-to-epanet-converter",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/EPANET-File-Converter",
-      "url": "https://github.com/rsnavarro-pe/EPANET-File-Converter"
-    },
-    "updatedAt": "2026-10-30T20:21:16.631Z",
-    "createdAt": "2026-10-28T11:18:49.268Z"
+    "liveUrl": "https://epanet-data-builder.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-data-builder",
+    "gitRepo": "rsnavarro-pe/EPANET-Data-Builder",
+    "gitUrl": "https://github.com/rsnavarro-pe/EPANET-Data-Builder",
+    "updatedAt": "2026-11-10"
   },
   {
     "id": "prj_ohjJ3wT6POGhAlQpSbNNaofQZjMP",
     "name": "epanet-solver",
-    "framework": null,
+    "framework": "Other",
     "nodeVersion": "24.x",
     "liveUrl": "https://epanet-solver-zeta.vercel.app",
     "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-solver",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/EPANET-Solver",
-      "url": "https://github.com/rsnavarro-pe/EPANET-Solver"
-    },
-    "updatedAt": "2026-10-25T01:27:27.056Z",
-    "createdAt": "2026-07-12T21:28:16.710Z"
+    "gitRepo": "rsnavarro-pe/EPANET-Solver",
+    "gitUrl": "https://github.com/rsnavarro-pe/EPANET-Solver",
+    "updatedAt": "2026-10-25"
   },
   {
-    "id": "prj_BPd43vwTvLVD0Q8KLhkBXHjvyeGb",
-    "name": "my-professional-website",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://my-professional-website-navy.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-professional-website",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/My_Professional_Website",
-      "url": "https://github.com/rsnavarro-pe/My_Professional_Website"
-    },
-    "updatedAt": "2026-10-21T11:44:26.212Z",
-    "createdAt": "2026-10-19T02:12:38.992Z"
-  },
-  {
-    "id": "prj_efiHNha7HSnesbsyEMmtpnTr4Out",
-    "name": "prompt-marimba-hch6awj",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://prompt-marimba-hch6awj.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/prompt-marimba-hch6awj",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/My_Professional_Website",
-      "url": "https://github.com/rsnavarro-pe/My_Professional_Website"
-    },
-    "updatedAt": "2026-10-21T11:44:22.854Z",
-    "createdAt": "2026-10-18T19:12:08.929Z"
-  },
-  {
-    "id": "prj_V5j5E0R4kX43qUJAsVPlTY6PsYNx",
-    "name": "my_professional_website",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://myprofessionalwebsite-rho.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my_professional_website",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/My_Professional_Website",
-      "url": "https://github.com/rsnavarro-pe/My_Professional_Website"
-    },
-    "updatedAt": "2026-10-21T11:44:19.878Z",
-    "createdAt": "2026-10-19T01:47:30.487Z"
-  },
-  {
-    "id": "prj_zRfCKmYq8tIXPav2WbSWhuqus2V1",
-    "name": "rushing-argon-8c4bl46",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://rushing-argon-8c4bl46.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rushing-argon-8c4bl46",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/My_Professional_Website",
-      "url": "https://github.com/rsnavarro-pe/My_Professional_Website"
-    },
-    "updatedAt": "2026-10-21T11:44:16.934Z",
-    "createdAt": "2026-10-18T23:39:38.028Z"
-  },
-  {
-    "id": "prj_vQ9YSsihKswwgG6zsmjxZBqreVux",
-    "name": "my_professional_website-lraw",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://myprofessionalwebsite-lraw.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my_professional_website-lraw",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/My_Professional_Website",
-      "url": "https://github.com/rsnavarro-pe/My_Professional_Website"
-    },
-    "updatedAt": "2026-10-21T11:44:13.831Z",
-    "createdAt": "2026-10-19T01:53:29.151Z"
-  },
-  {
-    "id": "prj_6NJGDB2iYjW38GVMa68AelKDR71k",
-    "name": "mobile-folder-pro",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://mobile-folder-pro.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/mobile-folder-pro",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Mobile-Folder-Pro",
-      "url": "https://github.com/rsnavarro-pe/Mobile-Folder-Pro"
-    },
-    "updatedAt": "2026-10-19T21:43:17.076Z",
-    "createdAt": "2026-06-03T10:12:28.053Z"
-  },
-  {
-    "id": "prj_RI4r1BCP72iEfcrPEwYcysmu5cc5",
-    "name": "project-management-suite",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://project-management-suite-dun.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-management-suite",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Project-Management-Suite",
-      "url": "https://github.com/rsnavarro-pe/Project-Management-Suite"
-    },
-    "updatedAt": "2026-10-19T21:43:11.583Z",
-    "createdAt": "2026-06-04T23:08:11.606Z"
-  },
-  {
-    "id": "prj_JRohFwG3voEz1L2AyplaMnheTAAA",
-    "name": "water-meter-install",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://water-meter-install.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-meter-install",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/water_meter_install",
-      "url": "https://github.com/rsnavarro-pe/water_meter_install"
-    },
-    "updatedAt": "2026-10-19T21:43:02.427Z",
-    "createdAt": "2026-06-02T08:01:03.355Z"
-  },
-  {
-    "id": "prj_LLk9KFuqvZLoXmbvmc51VMSoMlbb",
-    "name": "construction-daily",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://construction-daily.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/construction-daily",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/construction-daily",
-      "url": "https://github.com/rsnavarro-pe/construction-daily"
-    },
-    "updatedAt": "2026-10-19T21:42:56.245Z",
-    "createdAt": "2026-06-02T08:02:08.578Z"
-  },
-  {
-    "id": "prj_vPNpGN4pPKtnYz7L2Pyir9Lj9P3E",
-    "name": "project-manager",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://project-manager-ten-nu.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-manager",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Project_Manager",
-      "url": "https://github.com/rsnavarro-pe/Project_Manager"
-    },
-    "updatedAt": "2026-10-19T21:42:50.317Z",
-    "createdAt": "2026-06-02T07:57:51.491Z"
-  },
-  {
-    "id": "prj_9cl96lRWsPyK4n7WYKjZ7uTaPd9F",
-    "name": "local-drive-dashboard",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://local-drive-dashboard.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/local-drive-dashboard",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Local_Drive_Dashboard",
-      "url": "https://github.com/rsnavarro-pe/Local_Drive_Dashboard"
-    },
-    "updatedAt": "2026-10-19T21:42:46.253Z",
-    "createdAt": "2026-06-03T10:12:53.057Z"
+    "id": "prj_gSBaqG6MRrnuyv9DPPViJshGQ3tm",
+    "name": "epanet-toolkit",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://epanet-toolkit.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-toolkit",
+    "gitRepo": "rsnavarro-pe/EPANET_Toolkit",
+    "gitUrl": "https://github.com/rsnavarro-pe/EPANET_Toolkit",
+    "updatedAt": "2026-10-30"
   },
   {
     "id": "prj_UyZVlmJWr2Qk2IqKw8F9WpNFWGYa",
     "name": "file-folder-pro",
-    "framework": null,
+    "framework": "Other",
     "nodeVersion": "24.x",
     "liveUrl": "https://www.rsnavarro.net",
     "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/file-folder-pro",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/File_Folder_Pro",
-      "url": "https://github.com/rsnavarro-pe/File_Folder_Pro"
-    },
-    "updatedAt": "2026-10-19T21:42:44.207Z",
-    "createdAt": "2026-06-02T02:33:25.920Z"
+    "gitRepo": "rsnavarro-pe/File_Folder_Pro",
+    "gitUrl": "https://github.com/rsnavarro-pe/File_Folder_Pro",
+    "updatedAt": "2026-10-19"
   },
   {
-    "id": "prj_G20MsogfxAzdzuRNUAGaoWiFsAgm",
-    "name": "pay-app-tracker",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://pay-app-tracker.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pay-app-tracker",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/PayApp-Tracker",
-      "url": "https://github.com/rsnavarro-pe/PayApp-Tracker"
-    },
-    "updatedAt": "2026-10-19T21:22:17.491Z",
-    "createdAt": "2026-06-10T09:51:43.687Z"
+    "id": "prj_OBkFY5lkhFQ3myPN53zKIzIoYv6J",
+    "name": "flow-of-water",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://flow-of-water.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/flow-of-water",
+    "gitRepo": "rsnavarro-pe/Flow-of-Water",
+    "gitUrl": "https://github.com/rsnavarro-pe/Flow-of-Water",
+    "updatedAt": "2026-11-10"
   },
   {
-    "id": "prj_sPlIAbuG46xvjKn5pGL070VHOt7D",
-    "name": "rsn-calculator",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://rsn-calculator.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rsn-calculator",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/RSN-Calculator",
-      "url": "https://github.com/rsnavarro-pe/RSN-Calculator"
-    },
-    "updatedAt": "2026-10-19T21:22:00.288Z",
-    "createdAt": "2026-06-13T13:10:46.898Z"
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA",
+    "name": "fluid-mechanics",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics",
+    "updatedAt": "2026-11-05"
   },
   {
-    "id": "prj_e1Xdl4XHNJI0ZJeatMxJCWra5Lmd",
-    "name": "meter-consumption",
-    "framework": null,
+    "id": "prj_EW8EmpayhW3PkcIb51dnxCfnbm0Q",
+    "name": "folder-explorer",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://folder-explorer-seven.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/folder-explorer",
+    "gitRepo": "rsnavarro-pe/Folder_Explorer",
+    "gitUrl": "https://github.com/rsnavarro-pe/Folder_Explorer",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_dYtfJqfGmRIJCyZk75vDG06g5G46",
+    "name": "gis-workbench",
+    "framework": "Other",
     "nodeVersion": "24.x",
-    "liveUrl": "https://meter-consumption.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/meter-consumption",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Meter-Consumption",
-      "url": "https://github.com/rsnavarro-pe/Meter-Consumption"
-    },
-    "updatedAt": "2026-10-19T21:21:56.036Z",
-    "createdAt": "2026-07-13T22:51:00.229Z"
+    "liveUrl": "https://gis-workbench-beryl.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/gis-workbench",
+    "gitRepo": "rsnavarro-pe/GIS-Workbench",
+    "gitUrl": "https://github.com/rsnavarro-pe/GIS-Workbench",
+    "updatedAt": "2026-11-09"
+  },
+  {
+    "id": "prj_05BcaZyMLoPYvF3biwAz8vbuDfL7",
+    "name": "github-and-vercel-repo",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://github-and-vercel-repo.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/github-and-vercel-repo",
+    "gitRepo": "rsnavarro-pe/GitHub-and-Vercel-Repo",
+    "gitUrl": "https://github.com/rsnavarro-pe/GitHub-and-Vercel-Repo",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_CVeOTMwy6WZOn5wQJoy6kBNfEWl4",
+    "name": "hgl-and-egl",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://hgl-and-egl.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/hgl-and-egl",
+    "gitRepo": "rsnavarro-pe/HGL-and-EGL",
+    "gitUrl": "https://github.com/rsnavarro-pe/HGL-and-EGL",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_pEhM5umMarLBzy6YQBU99QYqrYTb",
+    "name": "hw-pipe-flow",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://hw-pipe-flow.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/hw-pipe-flow",
+    "gitRepo": "rsnavarro-pe/HW-Pipe-Flow",
+    "gitUrl": "https://github.com/rsnavarro-pe/HW-Pipe-Flow",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_J2UihJYHPt9Bk7ZPwui6QyDTGOs8",
+    "name": "hydrology-calculator",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://hydrology-calculator-sage.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/hydrology-calculator",
+    "gitRepo": "rsnavarro-pe/Hydrology-Calculator",
+    "gitUrl": "https://github.com/rsnavarro-pe/Hydrology-Calculator",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_9K61wXVyuZn8tU5hXjURNDZquJkQ",
+    "name": "incompressible-orifice-flow",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://incompressible-orifice-flow.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/incompressible-orifice-flow",
+    "gitRepo": "rsnavarro-pe/Incompressible-Orifice-Flow",
+    "gitUrl": "https://github.com/rsnavarro-pe/Incompressible-Orifice-Flow",
+    "updatedAt": "2026-11-10"
   },
   {
     "id": "prj_LFy3IdQcMw9N2N77vVojA5dYLHzF",
     "name": "leak-calculator",
-    "framework": null,
+    "framework": "Other",
     "nodeVersion": "24.x",
     "liveUrl": "https://leak-calculator-six.vercel.app",
     "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/leak-calculator",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Leak-Calculator",
-      "url": "https://github.com/rsnavarro-pe/Leak-Calculator"
-    },
-    "updatedAt": "2026-10-19T21:21:53.536Z",
-    "createdAt": "2026-07-13T22:51:47.474Z"
+    "gitRepo": "rsnavarro-pe/Leak-Calculator",
+    "gitUrl": "https://github.com/rsnavarro-pe/Leak-Calculator",
+    "updatedAt": "2026-10-19"
   },
   {
-    "id": "prj_0ONwXKoiqnYcTiBldqsYCU53lbRK",
-    "name": "water-demand-calculator",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://water-demand-calculator-two.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand-calculator",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Water-Demand",
-      "url": "https://github.com/rsnavarro-pe/Water-Demand"
-    },
-    "updatedAt": "2026-10-19T21:21:40.564Z",
-    "createdAt": "2026-07-12T21:31:30.756Z"
+    "id": "prj_BHTuR37O8LaUsrtrrFKxRgaENraT",
+    "name": "lift-station-design",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://lift-station-design.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/lift-station-design",
+    "gitRepo": "rsnavarro-pe/Lift-Station-Design",
+    "gitUrl": "https://github.com/rsnavarro-pe/Lift-Station-Design",
+    "updatedAt": "2026-11-10"
   },
   {
-    "id": "prj_HCNKrNoPyQBq0aab8cqBZt3txy0R",
-    "name": "water-demand",
-    "framework": null,
+    "id": "prj_9cl96lRWsPyK4n7WYKjZ7uTaPd9F",
+    "name": "local-drive-dashboard",
+    "framework": "Other",
     "nodeVersion": "24.x",
-    "liveUrl": "https://water-demand.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Water-Demand",
-      "url": "https://github.com/rsnavarro-pe/Water-Demand"
-    },
-    "updatedAt": "2026-10-19T21:21:35.636Z",
-    "createdAt": "2026-07-12T21:29:46.409Z"
+    "liveUrl": "https://local-drive-dashboard.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/local-drive-dashboard",
+    "gitRepo": "rsnavarro-pe/Local_Drive_Dashboard",
+    "gitUrl": "https://github.com/rsnavarro-pe/Local_Drive_Dashboard",
+    "updatedAt": "2026-10-19"
   },
   {
-    "id": "prj_PJu5D4Kncm2rMazaKGzEQyQGDFWW",
-    "name": "shapefile-viewer",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://shapefile-viewer-two.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/shapefile-viewer",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Shapefile-Viewer",
-      "url": "https://github.com/rsnavarro-pe/Shapefile-Viewer"
-    },
-    "updatedAt": "2026-10-19T21:21:32.438Z",
-    "createdAt": "2026-07-12T21:29:07.361Z"
+    "id": "prj_pO164SoRCwH8B202lzs8V6DkE9Sd",
+    "name": "ls-bcwws-advanced",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://ls-bcwws-advanced.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/ls-bcwws-advanced",
+    "gitRepo": "rsnavarro-pe/LS-BCWWS-Advanced",
+    "gitUrl": "https://github.com/rsnavarro-pe/LS-BCWWS-Advanced",
+    "updatedAt": "2026-11-10"
   },
   {
-    "id": "prj_4xcrwZW3IwgIzgg7CT6WH2twJITt",
-    "name": "racing-marimba-0b0ht6j",
-    "framework": null,
-    "nodeVersion": "24.x",
-    "liveUrl": "https://temporary-racing-marimba-0b0ht6j.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/racing-marimba-0b0ht6j",
-    "git": null,
-    "updatedAt": "2026-10-19T01:56:22.003Z",
-    "createdAt": "2026-10-19T01:50:37.615Z"
+    "id": "prj_tvP49ucVG1cqfasHm0uGL2jri70H",
+    "name": "ls-bcwws-simple",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://ls-bcwws-simple.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/ls-bcwws-simple",
+    "gitRepo": "rsnavarro-pe/LS-BCWWS-Simple",
+    "gitUrl": "https://github.com/rsnavarro-pe/LS-BCWWS-Simple",
+    "updatedAt": "2026-11-10"
   },
   {
-    "id": "prj_tXky5o41a0oQbiKp6Y4eM8kWDA4h",
-    "name": "my-wikipedia",
-    "framework": null,
+    "id": "prj_e1Xdl4XHNJI0ZJeatMxJCWra5Lmd",
+    "name": "meter-consumption",
+    "framework": "Other",
     "nodeVersion": "24.x",
-    "liveUrl": "https://my-wikipedia-seven.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-wikipedia",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/Personal-Wikipedia",
-      "url": "https://github.com/rsnavarro-pe/Personal-Wikipedia"
-    },
-    "updatedAt": "2026-10-18T13:52:45.907Z",
-    "createdAt": "2026-10-16T15:34:55.765Z"
+    "liveUrl": "https://meter-consumption.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/meter-consumption",
+    "gitRepo": "rsnavarro-pe/Meter-Consumption",
+    "gitUrl": "https://github.com/rsnavarro-pe/Meter-Consumption",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_6NJGDB2iYjW38GVMa68AelKDR71k",
+    "name": "mobile-folder-pro",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://mobile-folder-pro.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/mobile-folder-pro",
+    "gitRepo": "rsnavarro-pe/Mobile-Folder-Pro",
+    "gitUrl": "https://github.com/rsnavarro-pe/Mobile-Folder-Pro",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_V5j5E0R4kX43qUJAsVPlTY6PsYNx",
+    "name": "my_professional_website",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://myprofessionalwebsite-rho.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my_professional_website",
+    "gitRepo": "rsnavarro-pe/My_Professional_Website",
+    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
+    "updatedAt": "2026-10-21"
+  },
+  {
+    "id": "prj_vQ9YSsihKswwgG6zsmjxZBqreVux",
+    "name": "my_professional_website-lraw",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://myprofessionalwebsite-lraw.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my_professional_website-lraw",
+    "gitRepo": "rsnavarro-pe/My_Professional_Website",
+    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
+    "updatedAt": "2026-10-21"
   },
   {
     "id": "prj_lwmHcDUi04Sfxc0cGrLOcQorYdQH",
     "name": "my-portfolio",
-    "framework": null,
+    "framework": "Other",
     "nodeVersion": "24.x",
     "liveUrl": "https://my-portfolio-nine-theta-6ntd1pjxb8.vercel.app",
     "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-portfolio",
-    "git": {
-      "provider": "github",
-      "repo": "rsnavarro-pe/My_Portfolio",
-      "url": "https://github.com/rsnavarro-pe/My_Portfolio"
-    },
-    "updatedAt": "2026-06-15T08:46:10.373Z",
-    "createdAt": "2026-06-14T11:35:28.912Z"
+    "gitRepo": "rsnavarro-pe/My_Portfolio",
+    "gitUrl": "https://github.com/rsnavarro-pe/My_Portfolio",
+    "updatedAt": "2026-06-15"
+  },
+  {
+    "id": "prj_BPd43vwTvLVD0Q8KLhkBXHjvyeGb",
+    "name": "my-professional-website",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://my-professional-website-navy.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-professional-website",
+    "gitRepo": "rsnavarro-pe/My_Professional_Website",
+    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
+    "updatedAt": "2026-10-21"
+  },
+  {
+    "id": "prj_tXky5o41a0oQbiKp6Y4eM8kWDA4h",
+    "name": "my-wikipedia",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://my-wikipedia-seven.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-wikipedia",
+    "gitRepo": "rsnavarro-pe/Personal-Wikipedia",
+    "gitUrl": "https://github.com/rsnavarro-pe/Personal-Wikipedia",
+    "updatedAt": "2026-10-18"
+  },
+  {
+    "id": "prj_WySf0uHnCpFNL6nnVQr1RJTWbvXF",
+    "name": "non-uniform-flow",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://non-uniform-flow.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/non-uniform-flow",
+    "gitRepo": "rsnavarro-pe/Non-Uniform-Flow",
+    "gitUrl": "https://github.com/rsnavarro-pe/Non-Uniform-Flow",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_xz2GxtByQ01Y8RDGImrdHJnaOOyx",
+    "name": "orifice-calculator",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://orifice-calculator-sigma.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/orifice-calculator",
+    "gitRepo": "rsnavarro-pe/Orifice-Calculator",
+    "gitUrl": "https://github.com/rsnavarro-pe/Orifice-Calculator",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_QnKR5ZKAIsyauwYeQeT5dPKP6TYd",
+    "name": "partially-full-pipe-flow",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://partially-full-pipe-flow.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/partially-full-pipe-flow",
+    "gitRepo": "rsnavarro-pe/Partially-Full-Pipe-Flow",
+    "gitUrl": "https://github.com/rsnavarro-pe/Partially-Full-Pipe-Flow",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_G20MsogfxAzdzuRNUAGaoWiFsAgm",
+    "name": "pay-app-tracker",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://pay-app-tracker.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pay-app-tracker",
+    "gitRepo": "rsnavarro-pe/PayApp-Tracker",
+    "gitUrl": "https://github.com/rsnavarro-pe/PayApp-Tracker",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_S9GHnnTC8kjA0LwRnKGGVKXRWu9f",
+    "name": "pipeline-hydraulics",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://pipeline-hydraulics.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pipeline-hydraulics",
+    "gitRepo": "rsnavarro-pe/pipeline-hydraulics",
+    "gitUrl": "https://github.com/rsnavarro-pe/pipeline-hydraulics",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_4MrjjJaK6Dvf3blHYM2HUEbt3b7Q",
+    "name": "pressurized-flow",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://pressurized-flow.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pressurized-flow",
+    "gitRepo": "rsnavarro-pe/Pressurized-Flow",
+    "gitUrl": "https://github.com/rsnavarro-pe/Pressurized-Flow",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_RI4r1BCP72iEfcrPEwYcysmu5cc5",
+    "name": "project-management-suite",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://project-management-suite-dun.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-management-suite",
+    "gitRepo": "rsnavarro-pe/Project-Management-Suite",
+    "gitUrl": "https://github.com/rsnavarro-pe/Project-Management-Suite",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_vPNpGN4pPKtnYz7L2Pyir9Lj9P3E",
+    "name": "project-manager",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://project-manager-ten-nu.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-manager",
+    "gitRepo": "rsnavarro-pe/Project_Manager",
+    "gitUrl": "https://github.com/rsnavarro-pe/Project_Manager",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_efiHNha7HSnesbsyEMmtpnTr4Out",
+    "name": "prompt-marimba-hch6awj",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://prompt-marimba-hch6awj.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/prompt-marimba-hch6awj",
+    "gitRepo": "rsnavarro-pe/My_Professional_Website",
+    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
+    "updatedAt": "2026-10-21"
+  },
+  {
+    "id": "prj_pO0h1S2KJ9Yhr1Glm8dglBjITY0j",
+    "name": "pump-station",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://pump-station.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pump-station",
+    "gitRepo": "rsnavarro-pe/Pump-Station",
+    "gitUrl": "https://github.com/rsnavarro-pe/Pump-Station",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_4xcrwZW3IwgIzgg7CT6WH2twJITt",
+    "name": "racing-marimba-0b0ht6j",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://temporary-racing-marimba-0b0ht6j.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/racing-marimba-0b0ht6j",
+    "gitRepo": null,
+    "gitUrl": null,
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_sPlIAbuG46xvjKn5pGL070VHOt7D",
+    "name": "rsn-calculator",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://rsn-calculator.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rsn-calculator",
+    "gitRepo": "rsnavarro-pe/RSN-Calculator",
+    "gitUrl": "https://github.com/rsnavarro-pe/RSN-Calculator",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_mwZgNYPZPCO2T1B9SohZNGdXv7c6",
+    "name": "rsn-swmm-toolkit",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://rsn-swmm-toolkit.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rsn-swmm-toolkit",
+    "gitRepo": "rsnavarro-pe/RSN-SWMM-Toolkit",
+    "gitUrl": "https://github.com/rsnavarro-pe/RSN-SWMM-Toolkit",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "id": "prj_zRfCKmYq8tIXPav2WbSWhuqus2V1",
+    "name": "rushing-argon-8c4bl46",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://rushing-argon-8c4bl46.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rushing-argon-8c4bl46",
+    "gitRepo": "rsnavarro-pe/My_Professional_Website",
+    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
+    "updatedAt": "2026-10-21"
+  },
+  {
+    "id": "prj_FnVIk272dUQ1QWB4oa56XPU5pOsR",
+    "name": "sfwmd-flood-routing",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://sfwmd-flood-routing.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/sfwmd-flood-routing",
+    "gitRepo": "rsnavarro-pe/SFWMD-Flood-Routing",
+    "gitUrl": "https://github.com/rsnavarro-pe/SFWMD-Flood-Routing",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_ci4OwAgJxtVWtFaA3ML3lAJACu94",
+    "name": "sfwmd-methodology",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://sfwmd-methodology.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/sfwmd-methodology",
+    "gitRepo": "rsnavarro-pe/SFWMD-Methodology",
+    "gitUrl": "https://github.com/rsnavarro-pe/SFWMD-Methodology",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_PJu5D4Kncm2rMazaKGzEQyQGDFWW",
+    "name": "shapefile-viewer",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://shapefile-viewer-two.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/shapefile-viewer",
+    "gitRepo": "rsnavarro-pe/Shapefile-Viewer",
+    "gitUrl": "https://github.com/rsnavarro-pe/Shapefile-Viewer",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_atma8wqwwVqU5E5caJ0glK5jpaah",
+    "name": "sharp-crested-weir",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://sharp-crested-weir.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/sharp-crested-weir",
+    "gitRepo": "rsnavarro-pe/Sharp-Crested-Weir",
+    "gitUrl": "https://github.com/rsnavarro-pe/Sharp-Crested-Weir",
+    "updatedAt": "2026-11-02"
+  },
+  {
+    "id": "prj_SobNdn57XZy6dxu3VNz4BvNTetxY",
+    "name": "storm-drain",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://storm-drain.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/storm-drain",
+    "gitRepo": "rsnavarro-pe/Storm-Drain",
+    "gitUrl": "https://github.com/rsnavarro-pe/Storm-Drain",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_uvlDrKvzsCPUMg5nqojubEhz4Rur",
+    "name": "storm-inlet-capacity",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://storm-inlet-capacity.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/storm-inlet-capacity",
+    "gitRepo": "rsnavarro-pe/Storm-Inlet-Capacity",
+    "gitUrl": "https://github.com/rsnavarro-pe/Storm-Inlet-Capacity",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_7vzyEVuJI4dGNNArIwRi6MVPntjU",
+    "name": "time-of-concentration",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://time-of-concentration-rho.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/time-of-concentration",
+    "gitRepo": "rsnavarro-pe/Time-of-Concentration",
+    "gitUrl": "https://github.com/rsnavarro-pe/Time-of-Concentration",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_RA4vYcNa2FU25wrGrwFvIrLhXAK7",
+    "name": "uniform-open-channel",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://uniform-open-channel.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/uniform-open-channel",
+    "gitRepo": "rsnavarro-pe/Uniform-Open-Channel",
+    "gitUrl": "https://github.com/rsnavarro-pe/Uniform-Open-Channel",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_HNFmAzF12NMqHe1bxgk3zEkHnQnY",
+    "name": "unit-converter",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://unit-converter-rho-beige.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/unit-converter",
+    "gitRepo": "rsnavarro-pe/Unit-Converter",
+    "gitUrl": "https://github.com/rsnavarro-pe/Unit-Converter",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "prj_HCNKrNoPyQBq0aab8cqBZt3txy0R",
+    "name": "water-demand",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://water-demand.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand",
+    "gitRepo": "rsnavarro-pe/Water-Demand",
+    "gitUrl": "https://github.com/rsnavarro-pe/Water-Demand",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_0ONwXKoiqnYcTiBldqsYCU53lbRK",
+    "name": "water-demand-calculator",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://water-demand-calculator-two.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand-calculator",
+    "gitRepo": "rsnavarro-pe/Water-Demand",
+    "gitUrl": "https://github.com/rsnavarro-pe/Water-Demand",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_JRohFwG3voEz1L2AyplaMnheTAAA",
+    "name": "water-meter-install",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://water-meter-install.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-meter-install",
+    "gitRepo": "rsnavarro-pe/water_meter_install",
+    "gitUrl": "https://github.com/rsnavarro-pe/water_meter_install",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "prj_RsNy0GxEiGTuc9b6Cg50W9j4aHYz",
+    "name": "watergems-to-epanet-converter",
+    "framework": "Other",
+    "nodeVersion": "24.x",
+    "liveUrl": "https://watergems-to-epanet-converter.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/watergems-to-epanet-converter",
+    "gitRepo": "rsnavarro-pe/EPANET-File-Converter",
+    "gitUrl": "https://github.com/rsnavarro-pe/EPANET-File-Converter",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "id": "prj_cY7Qu0R3NJTBpWQmvIw50HNFt3CH",
+    "name": "weir-calculator",
+    "framework": "Other",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://weir-calculator.vercel.app",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/weir-calculator",
+    "gitRepo": "rsnavarro-pe/Weir-Calculator",
+    "gitUrl": "https://github.com/rsnavarro-pe/Weir-Calculator",
+    "updatedAt": "2026-11-10"
   }
 ]
