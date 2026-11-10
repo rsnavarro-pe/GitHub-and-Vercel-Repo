@@ -19,11 +19,7 @@
       --link: #38bdf8;
       --link-hover: #7dd3fc;
     }
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       background-color: var(--bg);
       color: var(--text);
@@ -31,10 +27,7 @@
       line-height: 1.5;
       padding: 32px 24px 64px 24px;
     }
-    .container {
-      max-width: 1280px;
-      margin: 0 auto;
-    }
+    .container { max-width: 1280px; margin: 0 auto; }
     header {
       margin-bottom: 32px;
       padding-bottom: 24px;
@@ -63,11 +56,7 @@
       border-radius: 9999px;
       border: 1px solid #334155;
     }
-    .subtitle {
-      color: var(--text-muted);
-      margin-top: 6px;
-      font-size: 0.95rem;
-    }
+    .subtitle { color: var(--text-muted); margin-top: 6px; font-size: 0.95rem; }
     .stats-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -135,11 +124,7 @@
       font-size: 0.9rem;
       pointer-events: none;
     }
-    .tab-buttons {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-    }
+    .tab-buttons { display: flex; gap: 8px; flex-wrap: wrap; }
     .btn-tab {
       background: var(--card-bg);
       border: 1px solid var(--card-border);
@@ -154,15 +139,8 @@
       gap: 8px;
       transition: all 0.15s;
     }
-    .btn-tab:hover {
-      background: var(--card-hover);
-      color: #fff;
-    }
-    .btn-tab.active {
-      background: #1e293b;
-      color: #fff;
-      border-color: #475569;
-    }
+    .btn-tab:hover { background: var(--card-hover); color: #fff; }
+    .btn-tab.active { background: #1e293b; color: #fff; border-color: #475569; }
     .badge-count {
       background: #334155;
       padding: 2px 7px;
@@ -213,12 +191,8 @@
       border-bottom: 1px solid #1a2234;
       vertical-align: middle;
     }
-    tr:last-child td {
-      border-bottom: none;
-    }
-    tr:hover td {
-      background: rgba(30, 41, 59, 0.4);
-    }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: rgba(30, 41, 59, 0.4); }
     a.link-item {
       color: var(--link);
       text-decoration: none;
@@ -227,10 +201,7 @@
       align-items: center;
       gap: 6px;
     }
-    a.link-item:hover {
-      color: var(--link-hover);
-      text-decoration: underline;
-    }
+    a.link-item:hover { color: var(--link-hover); text-decoration: underline; }
     a.btn-visit {
       background: #0284c7;
       color: #fff;
@@ -245,9 +216,7 @@
       white-space: nowrap;
       transition: background 0.15s;
     }
-    a.btn-visit:hover {
-      background: #0369a1;
-    }
+    a.btn-visit:hover { background: #0369a1; }
     a.btn-vc {
       background: #111;
       color: #fff;
@@ -261,10 +230,7 @@
       gap: 4px;
       white-space: nowrap;
     }
-    a.btn-vc:hover {
-      background: #222;
-      border-color: #555;
-    }
+    a.btn-vc:hover { background: #222; border-color: #555; }
     .badge {
       display: inline-block;
       padding: 2px 8px;
@@ -289,10 +255,7 @@
       color: #94a3b8;
       border: 1px solid #334155;
     }
-    .meta-text {
-      font-size: 0.8rem;
-      color: var(--text-muted);
-    }
+    .meta-text { font-size: 0.8rem; color: var(--text-muted); }
     .desc-text {
       font-size: 0.83rem;
       color: #cbd5e1;
@@ -301,11 +264,7 @@
       text-overflow: ellipsis;
       white-space: nowrap;
     }
-    .pill-group {
-      display: flex;
-      flex-direction: column;
-      gap: 4px;
-    }
+    .pill-group { display: flex; flex-direction: column; gap: 4px; }
     footer {
       text-align: center;
       color: var(--text-muted);
@@ -325,7 +284,7 @@
             <svg height="28" viewBox="0 0 16 16" width="28" fill="currentColor"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>
             Repositories & Deployments Directory
           </h1>
-          <p class="subtitle">Complete catalog of all GitHub repositories and continuous Vercel cloud deployments for Ronnie Navarro.</p>
+          <p class="subtitle">Complete catalog of all GitHub repositories and 1-to-1 continuous Vercel cloud deployments for Ronnie Navarro.</p>
         </div>
         <div class="user-pill">
           Account: <strong>@rsnavarro-pe</strong>
@@ -346,14 +305,14 @@
           <svg height="14" viewBox="0 0 1155 1000" fill="currentColor"><path d="m577.3 0 577.4 1000H0z"/></svg>
           Vercel Projects
         </span>
-        <span class="value">61</span>
+        <span class="value">55</span>
       </div>
       <div class="stat-card">
         <span class="label">
           <svg height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
-          Deployed Repositories
+          Match & Coverage
         </span>
-        <span class="value">55 / 55</span>
+        <span class="value">55 / 55 (100%)</span>
       </div>
     </div>
 
@@ -368,10 +327,7 @@
           GitHub <span class="badge-count">55</span>
         </button>
         <button class="btn-tab" onclick="switchTab('vercel', this)">
-          Vercel <span class="badge-count">61</span>
-        </button>
-        <button class="btn-tab" onclick="switchTab('connected', this)">
-          Connected Only <span class="badge-count">55</span>
+          Vercel <span class="badge-count">55</span>
         </button>
       </div>
     </div>
@@ -399,7 +355,7 @@
           </thead>
           <tbody id="githubTableBody">
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="advanced-gis-workbench" data-search="advanced-gis-workbench engineering tool / repository advanced-gis-workbench https://advanced-gis-workbench.vercel.app">
+              <tr class="item-row" data-type="github" data-name="advanced-gis-workbench" data-search="advanced-gis-workbench engineering tool / repository advanced-gis-workbench https://advanced-gis-workbench.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Advanced-GIS-Workbench" target="_blank" rel="noopener noreferrer" class="link-item">
                     Advanced-GIS-Workbench
@@ -431,7 +387,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="broad-crested-weir" data-search="broad-crested-weir engineering tool / repository broad-crested-weir https://broad-crested-weir.vercel.app">
+              <tr class="item-row" data-type="github" data-name="broad-crested-weir" data-search="broad-crested-weir engineering tool / repository broad-crested-weir https://broad-crested-weir.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Broad-Crested-Weir" target="_blank" rel="noopener noreferrer" class="link-item">
                     Broad-Crested-Weir
@@ -463,7 +419,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="circular-culvert" data-search="circular-culvert engineering tool / repository circular-culvert https://circular-culvert.vercel.app">
+              <tr class="item-row" data-type="github" data-name="circular-culvert" data-search="circular-culvert engineering tool / repository circular-culvert https://circular-culvert.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Circular-Culvert" target="_blank" rel="noopener noreferrer" class="link-item">
                     Circular-Culvert
@@ -495,7 +451,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="claude-skills" data-search="claude-skills centralized library of custom claude code skills across multiple computers claude-skills https://claude-skills-umber.vercel.app">
+              <tr class="item-row" data-type="github" data-name="claude-skills" data-search="claude-skills centralized library of custom claude code skills across multiple computers claude-skills https://claude-skills-umber.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Claude-skills" target="_blank" rel="noopener noreferrer" class="link-item">
                     Claude-skills
@@ -527,7 +483,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="combocalculator" data-search="combocalculator engineering tool / repository combocalculator https://combocalculator-pi.vercel.app">
+              <tr class="item-row" data-type="github" data-name="combocalculator" data-search="combocalculator engineering tool / repository combocalculator https://combocalculator-pi.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/ComboCalculator" target="_blank" rel="noopener noreferrer" class="link-item">
                     ComboCalculator
@@ -559,7 +515,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="construction-daily" data-search="construction-daily construction daily report construction-daily https://construction-daily.vercel.app">
+              <tr class="item-row" data-type="github" data-name="construction-daily" data-search="construction-daily construction daily report construction-daily https://construction-daily.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/construction-daily" target="_blank" rel="noopener noreferrer" class="link-item">
                     construction-daily
@@ -591,7 +547,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="csv-purifier-studio" data-search="csv-purifier-studio engineering tool / repository csv-purifier-studio https://csv-purifier-studio.vercel.app">
+              <tr class="item-row" data-type="github" data-name="csv-purifier-studio" data-search="csv-purifier-studio engineering tool / repository csv-purifier-studio https://csv-purifier-studio.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/csv-purifier-studio" target="_blank" rel="noopener noreferrer" class="link-item">
                     csv-purifier-studio
@@ -623,7 +579,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="engineering_resources" data-search="engineering_resources engineering tool / repository engineering-resources https://engineering-resources-one.vercel.app">
+              <tr class="item-row" data-type="github" data-name="engineering_resources" data-search="engineering_resources engineering tool / repository engineering-resources https://engineering-resources-one.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Engineering_Resources" target="_blank" rel="noopener noreferrer" class="link-item">
                     Engineering_Resources
@@ -655,7 +611,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="epanet_toolkit" data-search="epanet_toolkit rsn pipe network toolkit (single-file epanet-style app) epanet-toolkit https://epanet-toolkit.vercel.app">
+              <tr class="item-row" data-type="github" data-name="epanet_toolkit" data-search="epanet_toolkit rsn pipe network toolkit (single-file epanet-style app) epanet-toolkit https://epanet-toolkit.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/EPANET_Toolkit" target="_blank" rel="noopener noreferrer" class="link-item">
                     EPANET_Toolkit
@@ -687,7 +643,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="epanet-data-builder" data-search="epanet-data-builder engineering tool / repository epanet-data-builder https://epanet-data-builder.vercel.app">
+              <tr class="item-row" data-type="github" data-name="epanet-data-builder" data-search="epanet-data-builder engineering tool / repository epanet-data-builder https://epanet-data-builder.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/EPANET-Data-Builder" target="_blank" rel="noopener noreferrer" class="link-item">
                     EPANET-Data-Builder
@@ -719,7 +675,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="epanet-file-converter" data-search="epanet-file-converter engineering tool / repository watergems-to-epanet-converter https://watergems-to-epanet-converter.vercel.app">
+              <tr class="item-row" data-type="github" data-name="epanet-file-converter" data-search="epanet-file-converter engineering tool / repository watergems-to-epanet-converter https://watergems-to-epanet-converter.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/EPANET-File-Converter" target="_blank" rel="noopener noreferrer" class="link-item">
                     EPANET-File-Converter
@@ -751,7 +707,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="epanet-solver" data-search="epanet-solver engineering tool / repository epanet-solver https://epanet-solver-zeta.vercel.app">
+              <tr class="item-row" data-type="github" data-name="epanet-solver" data-search="epanet-solver engineering tool / repository epanet-solver https://epanet-solver-zeta.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/EPANET-Solver" target="_blank" rel="noopener noreferrer" class="link-item">
                     EPANET-Solver
@@ -783,7 +739,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="file_folder_pro" data-search="file_folder_pro engineering tool / repository file-folder-pro https://www.rsnavarro.net">
+              <tr class="item-row" data-type="github" data-name="file_folder_pro" data-search="file_folder_pro engineering tool / repository file-folder-pro https://www.rsnavarro.net">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/File_Folder_Pro" target="_blank" rel="noopener noreferrer" class="link-item">
                     File_Folder_Pro
@@ -815,7 +771,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="flow-of-water" data-search="flow-of-water engineering tool / repository flow-of-water https://flow-of-water.vercel.app">
+              <tr class="item-row" data-type="github" data-name="flow-of-water" data-search="flow-of-water engineering tool / repository flow-of-water https://flow-of-water.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Flow-of-Water" target="_blank" rel="noopener noreferrer" class="link-item">
                     Flow-of-Water
@@ -847,7 +803,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="fluid-mechanics" data-search="fluid-mechanics rsn incompressible fluid mechanics toolkit: 51 interactive civil engineering calculators, 100% responsive dynamic svgs, and 205 automated benchmark tests. fluid-mechanics https://fluid-mechanics-seven.vercel.app">
+              <tr class="item-row" data-type="github" data-name="fluid-mechanics" data-search="fluid-mechanics rsn incompressible fluid mechanics toolkit: 51 interactive civil engineering calculators, 100% responsive dynamic svgs, and 205 automated benchmark tests. fluid-mechanics https://fluid-mechanics-seven.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Fluid-Mechanics" target="_blank" rel="noopener noreferrer" class="link-item">
                     Fluid-Mechanics
@@ -879,7 +835,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="folder_explorer" data-search="folder_explorer folder explorer dashboard - categorize contents of a folder folder-explorer https://folder-explorer-seven.vercel.app">
+              <tr class="item-row" data-type="github" data-name="folder_explorer" data-search="folder_explorer folder explorer dashboard - categorize contents of a folder folder-explorer https://folder-explorer-seven.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Folder_Explorer" target="_blank" rel="noopener noreferrer" class="link-item">
                     Folder_Explorer
@@ -911,7 +867,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="gis-workbench" data-search="gis-workbench engineering tool / repository gis-workbench https://gis-workbench-beryl.vercel.app">
+              <tr class="item-row" data-type="github" data-name="gis-workbench" data-search="gis-workbench engineering tool / repository gis-workbench https://gis-workbench-beryl.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/GIS-Workbench" target="_blank" rel="noopener noreferrer" class="link-item">
                     GIS-Workbench
@@ -943,7 +899,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="github-and-vercel-repo" data-search="github-and-vercel-repo centralized repository and deployment directory portal for rsn engineering github-and-vercel-repo https://github-and-vercel-repo.vercel.app">
+              <tr class="item-row" data-type="github" data-name="github-and-vercel-repo" data-search="github-and-vercel-repo centralized repository and deployment directory portal for rsn engineering github-and-vercel-repo https://github-and-vercel-repo.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/GitHub-and-Vercel-Repo" target="_blank" rel="noopener noreferrer" class="link-item">
                     GitHub-and-Vercel-Repo
@@ -975,7 +931,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="hgl-and-egl" data-search="hgl-and-egl engineering tool / repository hgl-and-egl https://hgl-and-egl.vercel.app">
+              <tr class="item-row" data-type="github" data-name="hgl-and-egl" data-search="hgl-and-egl engineering tool / repository hgl-and-egl https://hgl-and-egl.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/HGL-and-EGL" target="_blank" rel="noopener noreferrer" class="link-item">
                     HGL-and-EGL
@@ -1007,7 +963,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="hw-pipe-flow" data-search="hw-pipe-flow engineering tool / repository hw-pipe-flow https://hw-pipe-flow.vercel.app">
+              <tr class="item-row" data-type="github" data-name="hw-pipe-flow" data-search="hw-pipe-flow engineering tool / repository hw-pipe-flow https://hw-pipe-flow.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/HW-Pipe-Flow" target="_blank" rel="noopener noreferrer" class="link-item">
                     HW-Pipe-Flow
@@ -1039,7 +995,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="hydrology-calculator" data-search="hydrology-calculator engineering tool / repository hydrology-calculator https://hydrology-calculator-sage.vercel.app">
+              <tr class="item-row" data-type="github" data-name="hydrology-calculator" data-search="hydrology-calculator engineering tool / repository hydrology-calculator https://hydrology-calculator-sage.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Hydrology-Calculator" target="_blank" rel="noopener noreferrer" class="link-item">
                     Hydrology-Calculator
@@ -1071,7 +1027,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="incompressible-orifice-flow" data-search="incompressible-orifice-flow engineering tool / repository incompressible-orifice-flow https://incompressible-orifice-flow.vercel.app">
+              <tr class="item-row" data-type="github" data-name="incompressible-orifice-flow" data-search="incompressible-orifice-flow engineering tool / repository incompressible-orifice-flow https://incompressible-orifice-flow.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Incompressible-Orifice-Flow" target="_blank" rel="noopener noreferrer" class="link-item">
                     Incompressible-Orifice-Flow
@@ -1103,7 +1059,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="leak-calculator" data-search="leak-calculator engineering tool / repository leak-calculator https://leak-calculator-six.vercel.app">
+              <tr class="item-row" data-type="github" data-name="leak-calculator" data-search="leak-calculator engineering tool / repository leak-calculator https://leak-calculator-six.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Leak-Calculator" target="_blank" rel="noopener noreferrer" class="link-item">
                     Leak-Calculator
@@ -1135,7 +1091,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="lift-station-design" data-search="lift-station-design engineering tool / repository lift-station-design https://lift-station-design.vercel.app">
+              <tr class="item-row" data-type="github" data-name="lift-station-design" data-search="lift-station-design engineering tool / repository lift-station-design https://lift-station-design.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Lift-Station-Design" target="_blank" rel="noopener noreferrer" class="link-item">
                     Lift-Station-Design
@@ -1167,7 +1123,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="local_drive_dashboard" data-search="local_drive_dashboard engineering tool / repository local-drive-dashboard https://local-drive-dashboard.vercel.app">
+              <tr class="item-row" data-type="github" data-name="local_drive_dashboard" data-search="local_drive_dashboard engineering tool / repository local-drive-dashboard https://local-drive-dashboard.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Local_Drive_Dashboard" target="_blank" rel="noopener noreferrer" class="link-item">
                     Local_Drive_Dashboard
@@ -1199,7 +1155,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="ls-bcwws-advanced" data-search="ls-bcwws-advanced engineering tool / repository ls-bcwws-advanced https://ls-bcwws-advanced.vercel.app">
+              <tr class="item-row" data-type="github" data-name="ls-bcwws-advanced" data-search="ls-bcwws-advanced engineering tool / repository ls-bcwws-advanced https://ls-bcwws-advanced.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/LS-BCWWS-Advanced" target="_blank" rel="noopener noreferrer" class="link-item">
                     LS-BCWWS-Advanced
@@ -1231,7 +1187,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="ls-bcwws-simple" data-search="ls-bcwws-simple engineering tool / repository ls-bcwws-simple https://ls-bcwws-simple.vercel.app">
+              <tr class="item-row" data-type="github" data-name="ls-bcwws-simple" data-search="ls-bcwws-simple engineering tool / repository ls-bcwws-simple https://ls-bcwws-simple.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/LS-BCWWS-Simple" target="_blank" rel="noopener noreferrer" class="link-item">
                     LS-BCWWS-Simple
@@ -1263,7 +1219,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="meter-consumption" data-search="meter-consumption engineering tool / repository meter-consumption https://meter-consumption.vercel.app">
+              <tr class="item-row" data-type="github" data-name="meter-consumption" data-search="meter-consumption engineering tool / repository meter-consumption https://meter-consumption.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Meter-Consumption" target="_blank" rel="noopener noreferrer" class="link-item">
                     Meter-Consumption
@@ -1295,7 +1251,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="mobile-folder-pro" data-search="mobile-folder-pro engineering tool / repository mobile-folder-pro https://mobile-folder-pro.vercel.app">
+              <tr class="item-row" data-type="github" data-name="mobile-folder-pro" data-search="mobile-folder-pro engineering tool / repository mobile-folder-pro https://mobile-folder-pro.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Mobile-Folder-Pro" target="_blank" rel="noopener noreferrer" class="link-item">
                     Mobile-Folder-Pro
@@ -1327,7 +1283,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="my_portfolio" data-search="my_portfolio engineering tool / repository my-portfolio https://my-portfolio-nine-theta-6ntd1pjxb8.vercel.app">
+              <tr class="item-row" data-type="github" data-name="my_portfolio" data-search="my_portfolio engineering tool / repository my-portfolio https://my-portfolio-nine-theta-6ntd1pjxb8.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/My_Portfolio" target="_blank" rel="noopener noreferrer" class="link-item">
                     My_Portfolio
@@ -1359,7 +1315,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="my_professional_website" data-search="my_professional_website engineering tool / repository my_professional_website https://myprofessionalwebsite-rho.vercel.app my_professional_website-lraw https://myprofessionalwebsite-lraw.vercel.app my-professional-website https://my-professional-website-navy.vercel.app prompt-marimba-hch6awj https://prompt-marimba-hch6awj.vercel.app rushing-argon-8c4bl46 https://rushing-argon-8c4bl46.vercel.app">
+              <tr class="item-row" data-type="github" data-name="my_professional_website" data-search="my_professional_website engineering tool / repository my-professional-website https://my-professional-website-navy.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/My_Professional_Website" target="_blank" rel="noopener noreferrer" class="link-item">
                     My_Professional_Website
@@ -1377,38 +1333,10 @@
                     <div class="pill-group">
                       
                         <div>
-                          <a href="https://myprofessionalwebsite-rho.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit" style="margin-right: 6px;">
-                            🚀 my_professional_website
-                          </a>
-                          <a href="https://vercel.com/rsnavarro-pes-projects/my_professional_website" target="_blank" rel="noopener noreferrer" class="btn-vc">Dashboard</a>
-                        </div>
-                      
-                        <div>
-                          <a href="https://myprofessionalwebsite-lraw.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit" style="margin-right: 6px;">
-                            🚀 my_professional_website-lraw
-                          </a>
-                          <a href="https://vercel.com/rsnavarro-pes-projects/my_professional_website-lraw" target="_blank" rel="noopener noreferrer" class="btn-vc">Dashboard</a>
-                        </div>
-                      
-                        <div>
                           <a href="https://my-professional-website-navy.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit" style="margin-right: 6px;">
                             🚀 my-professional-website
                           </a>
                           <a href="https://vercel.com/rsnavarro-pes-projects/my-professional-website" target="_blank" rel="noopener noreferrer" class="btn-vc">Dashboard</a>
-                        </div>
-                      
-                        <div>
-                          <a href="https://prompt-marimba-hch6awj.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit" style="margin-right: 6px;">
-                            🚀 prompt-marimba-hch6awj
-                          </a>
-                          <a href="https://vercel.com/rsnavarro-pes-projects/prompt-marimba-hch6awj" target="_blank" rel="noopener noreferrer" class="btn-vc">Dashboard</a>
-                        </div>
-                      
-                        <div>
-                          <a href="https://rushing-argon-8c4bl46.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit" style="margin-right: 6px;">
-                            🚀 rushing-argon-8c4bl46
-                          </a>
-                          <a href="https://vercel.com/rsnavarro-pes-projects/rushing-argon-8c4bl46" target="_blank" rel="noopener noreferrer" class="btn-vc">Dashboard</a>
                         </div>
                       
                     </div>
@@ -1419,7 +1347,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="non-uniform-flow" data-search="non-uniform-flow engineering tool / repository non-uniform-flow https://non-uniform-flow.vercel.app">
+              <tr class="item-row" data-type="github" data-name="non-uniform-flow" data-search="non-uniform-flow engineering tool / repository non-uniform-flow https://non-uniform-flow.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Non-Uniform-Flow" target="_blank" rel="noopener noreferrer" class="link-item">
                     Non-Uniform-Flow
@@ -1451,7 +1379,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="orifice-calculator" data-search="orifice-calculator engineering tool / repository orifice-calculator https://orifice-calculator-sigma.vercel.app">
+              <tr class="item-row" data-type="github" data-name="orifice-calculator" data-search="orifice-calculator engineering tool / repository orifice-calculator https://orifice-calculator-sigma.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Orifice-Calculator" target="_blank" rel="noopener noreferrer" class="link-item">
                     Orifice-Calculator
@@ -1483,7 +1411,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="partially-full-pipe-flow" data-search="partially-full-pipe-flow engineering tool / repository partially-full-pipe-flow https://partially-full-pipe-flow.vercel.app">
+              <tr class="item-row" data-type="github" data-name="partially-full-pipe-flow" data-search="partially-full-pipe-flow engineering tool / repository partially-full-pipe-flow https://partially-full-pipe-flow.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Partially-Full-Pipe-Flow" target="_blank" rel="noopener noreferrer" class="link-item">
                     Partially-Full-Pipe-Flow
@@ -1515,7 +1443,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="payapp-tracker" data-search="payapp-tracker engineering tool / repository pay-app-tracker https://pay-app-tracker.vercel.app">
+              <tr class="item-row" data-type="github" data-name="payapp-tracker" data-search="payapp-tracker engineering tool / repository pay-app-tracker https://pay-app-tracker.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/PayApp-Tracker" target="_blank" rel="noopener noreferrer" class="link-item">
                     PayApp-Tracker
@@ -1547,7 +1475,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="personal-wikipedia" data-search="personal-wikipedia engineering tool / repository my-wikipedia https://my-wikipedia-seven.vercel.app">
+              <tr class="item-row" data-type="github" data-name="personal-wikipedia" data-search="personal-wikipedia engineering tool / repository my-wikipedia https://my-wikipedia-seven.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Personal-Wikipedia" target="_blank" rel="noopener noreferrer" class="link-item">
                     Personal-Wikipedia
@@ -1579,7 +1507,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="pipeline-hydraulics" data-search="pipeline-hydraulics engineering tool / repository pipeline-hydraulics https://pipeline-hydraulics.vercel.app">
+              <tr class="item-row" data-type="github" data-name="pipeline-hydraulics" data-search="pipeline-hydraulics engineering tool / repository pipeline-hydraulics https://pipeline-hydraulics.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/pipeline-hydraulics" target="_blank" rel="noopener noreferrer" class="link-item">
                     pipeline-hydraulics
@@ -1611,7 +1539,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="pressurized-flow" data-search="pressurized-flow engineering tool / repository pressurized-flow https://pressurized-flow.vercel.app">
+              <tr class="item-row" data-type="github" data-name="pressurized-flow" data-search="pressurized-flow engineering tool / repository pressurized-flow https://pressurized-flow.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Pressurized-Flow" target="_blank" rel="noopener noreferrer" class="link-item">
                     Pressurized-Flow
@@ -1643,7 +1571,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="project_manager" data-search="project_manager engineering tool / repository project-manager https://project-manager-ten-nu.vercel.app">
+              <tr class="item-row" data-type="github" data-name="project_manager" data-search="project_manager engineering tool / repository project-manager https://project-manager-ten-nu.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Project_Manager" target="_blank" rel="noopener noreferrer" class="link-item">
                     Project_Manager
@@ -1675,7 +1603,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="project-management-suite" data-search="project-management-suite project management suite project-management-suite https://project-management-suite-dun.vercel.app">
+              <tr class="item-row" data-type="github" data-name="project-management-suite" data-search="project-management-suite project management suite project-management-suite https://project-management-suite-dun.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Project-Management-Suite" target="_blank" rel="noopener noreferrer" class="link-item">
                     Project-Management-Suite
@@ -1707,7 +1635,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="pump-station" data-search="pump-station engineering tool / repository pump-station https://pump-station.vercel.app">
+              <tr class="item-row" data-type="github" data-name="pump-station" data-search="pump-station engineering tool / repository pump-station https://pump-station.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Pump-Station" target="_blank" rel="noopener noreferrer" class="link-item">
                     Pump-Station
@@ -1739,7 +1667,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="rsn-calculator" data-search="rsn-calculator engineering tool / repository rsn-calculator https://rsn-calculator.vercel.app">
+              <tr class="item-row" data-type="github" data-name="rsn-calculator" data-search="rsn-calculator engineering tool / repository rsn-calculator https://rsn-calculator.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/RSN-Calculator" target="_blank" rel="noopener noreferrer" class="link-item">
                     RSN-Calculator
@@ -1771,7 +1699,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="rsn-swmm-toolkit" data-search="rsn-swmm-toolkit engineering tool / repository rsn-swmm-toolkit https://rsn-swmm-toolkit.vercel.app">
+              <tr class="item-row" data-type="github" data-name="rsn-swmm-toolkit" data-search="rsn-swmm-toolkit engineering tool / repository rsn-swmm-toolkit https://rsn-swmm-toolkit.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/RSN-SWMM-Toolkit" target="_blank" rel="noopener noreferrer" class="link-item">
                     RSN-SWMM-Toolkit
@@ -1803,7 +1731,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="sfwmd-flood-routing" data-search="sfwmd-flood-routing engineering tool / repository sfwmd-flood-routing https://sfwmd-flood-routing.vercel.app">
+              <tr class="item-row" data-type="github" data-name="sfwmd-flood-routing" data-search="sfwmd-flood-routing engineering tool / repository sfwmd-flood-routing https://sfwmd-flood-routing.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/SFWMD-Flood-Routing" target="_blank" rel="noopener noreferrer" class="link-item">
                     SFWMD-Flood-Routing
@@ -1835,7 +1763,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="sfwmd-methodology" data-search="sfwmd-methodology engineering tool / repository sfwmd-methodology https://sfwmd-methodology.vercel.app">
+              <tr class="item-row" data-type="github" data-name="sfwmd-methodology" data-search="sfwmd-methodology engineering tool / repository sfwmd-methodology https://sfwmd-methodology.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/SFWMD-Methodology" target="_blank" rel="noopener noreferrer" class="link-item">
                     SFWMD-Methodology
@@ -1867,7 +1795,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="shapefile-viewer" data-search="shapefile-viewer engineering tool / repository shapefile-viewer https://shapefile-viewer-two.vercel.app">
+              <tr class="item-row" data-type="github" data-name="shapefile-viewer" data-search="shapefile-viewer engineering tool / repository shapefile-viewer https://shapefile-viewer-two.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Shapefile-Viewer" target="_blank" rel="noopener noreferrer" class="link-item">
                     Shapefile-Viewer
@@ -1899,7 +1827,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="sharp-crested-weir" data-search="sharp-crested-weir engineering tool / repository sharp-crested-weir https://sharp-crested-weir.vercel.app">
+              <tr class="item-row" data-type="github" data-name="sharp-crested-weir" data-search="sharp-crested-weir engineering tool / repository sharp-crested-weir https://sharp-crested-weir.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Sharp-Crested-Weir" target="_blank" rel="noopener noreferrer" class="link-item">
                     Sharp-Crested-Weir
@@ -1931,7 +1859,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="storm-drain" data-search="storm-drain engineering tool / repository storm-drain https://storm-drain.vercel.app">
+              <tr class="item-row" data-type="github" data-name="storm-drain" data-search="storm-drain engineering tool / repository storm-drain https://storm-drain.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Storm-Drain" target="_blank" rel="noopener noreferrer" class="link-item">
                     Storm-Drain
@@ -1963,7 +1891,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="storm-inlet-capacity" data-search="storm-inlet-capacity engineering tool / repository storm-inlet-capacity https://storm-inlet-capacity.vercel.app">
+              <tr class="item-row" data-type="github" data-name="storm-inlet-capacity" data-search="storm-inlet-capacity engineering tool / repository storm-inlet-capacity https://storm-inlet-capacity.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Storm-Inlet-Capacity" target="_blank" rel="noopener noreferrer" class="link-item">
                     Storm-Inlet-Capacity
@@ -1995,7 +1923,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="time-of-concentration" data-search="time-of-concentration engineering tool / repository time-of-concentration https://time-of-concentration-rho.vercel.app">
+              <tr class="item-row" data-type="github" data-name="time-of-concentration" data-search="time-of-concentration engineering tool / repository time-of-concentration https://time-of-concentration-rho.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Time-of-Concentration" target="_blank" rel="noopener noreferrer" class="link-item">
                     Time-of-Concentration
@@ -2027,7 +1955,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="uniform-open-channel" data-search="uniform-open-channel engineering tool / repository uniform-open-channel https://uniform-open-channel.vercel.app">
+              <tr class="item-row" data-type="github" data-name="uniform-open-channel" data-search="uniform-open-channel engineering tool / repository uniform-open-channel https://uniform-open-channel.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Uniform-Open-Channel" target="_blank" rel="noopener noreferrer" class="link-item">
                     Uniform-Open-Channel
@@ -2059,7 +1987,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="unit-converter" data-search="unit-converter unit converter · a rsn engineering tool unit-converter https://unit-converter-rho-beige.vercel.app">
+              <tr class="item-row" data-type="github" data-name="unit-converter" data-search="unit-converter unit converter · a rsn engineering tool unit-converter https://unit-converter-rho-beige.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Unit-Converter" target="_blank" rel="noopener noreferrer" class="link-item">
                     Unit-Converter
@@ -2091,7 +2019,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="water_meter_install" data-search="water_meter_install water meter installation water-meter-install https://water-meter-install.vercel.app">
+              <tr class="item-row" data-type="github" data-name="water_meter_install" data-search="water_meter_install water meter installation water-meter-install https://water-meter-install.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/water_meter_install" target="_blank" rel="noopener noreferrer" class="link-item">
                     water_meter_install
@@ -2123,7 +2051,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="water-demand" data-search="water-demand engineering tool / repository water-demand https://water-demand.vercel.app water-demand-calculator https://water-demand-calculator-two.vercel.app">
+              <tr class="item-row" data-type="github" data-name="water-demand" data-search="water-demand engineering tool / repository water-demand https://water-demand.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Water-Demand" target="_blank" rel="noopener noreferrer" class="link-item">
                     Water-Demand
@@ -2147,13 +2075,6 @@
                           <a href="https://vercel.com/rsnavarro-pes-projects/water-demand" target="_blank" rel="noopener noreferrer" class="btn-vc">Dashboard</a>
                         </div>
                       
-                        <div>
-                          <a href="https://water-demand-calculator-two.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit" style="margin-right: 6px;">
-                            🚀 water-demand-calculator
-                          </a>
-                          <a href="https://vercel.com/rsnavarro-pes-projects/water-demand-calculator" target="_blank" rel="noopener noreferrer" class="btn-vc">Dashboard</a>
-                        </div>
-                      
                     </div>
                   
                 </td>
@@ -2162,7 +2083,7 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="github" data-connected="true" data-name="weir-calculator" data-search="weir-calculator engineering tool / repository weir-calculator https://weir-calculator.vercel.app">
+              <tr class="item-row" data-type="github" data-name="weir-calculator" data-search="weir-calculator engineering tool / repository weir-calculator https://weir-calculator.vercel.app">
                 <td>
                   <a href="https://github.com/rsnavarro-pe/Weir-Calculator" target="_blank" rel="noopener noreferrer" class="link-item">
                     Weir-Calculator
@@ -2206,7 +2127,7 @@
           <svg height="18" viewBox="0 0 1155 1000" fill="currentColor"><path d="m577.3 0 577.4 1000H0z"/></svg>
           Vercel Projects & Live Deployments
         </h2>
-        <span class="meta-text">61 projects</span>
+        <span class="meta-text">55 projects</span>
       </div>
 
       <div class="table-wrapper">
@@ -3035,64 +2956,6 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="vercel" data-name="my_professional_website" data-search="my_professional_website https://myprofessionalwebsite-rho.vercel.app rsnavarro-pe/my_professional_website">
-                <td>
-                  <strong>my_professional_website</strong>
-                </td>
-                <td>
-                  <a href="https://myprofessionalwebsite-rho.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit">
-                    🌐 myprofessionalwebsite-rho.vercel.app
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-                  </a>
-                </td>
-                <td>
-                  <a href="https://github.com/rsnavarro-pe/My_Professional_Website" target="_blank" rel="noopener noreferrer" class="link-item">
-                    <svg height="14" viewBox="0 0 16 16" width="14" fill="currentColor"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>
-                    rsnavarro-pe/My_Professional_Website
-                  </a>
-                </td>
-                <td>
-                  <span class="badge badge-fw">Other</span>
-                </td>
-                <td>
-                  <span class="meta-text">2026-10-21</span>
-                </td>
-                <td>
-                  <a href="https://vercel.com/rsnavarro-pes-projects/my_professional_website" target="_blank" rel="noopener noreferrer" class="btn-vc">
-                    Dashboard ↗
-                  </a>
-                </td>
-              </tr>
-            
-              <tr class="item-row" data-type="vercel" data-name="my_professional_website-lraw" data-search="my_professional_website-lraw https://myprofessionalwebsite-lraw.vercel.app rsnavarro-pe/my_professional_website">
-                <td>
-                  <strong>my_professional_website-lraw</strong>
-                </td>
-                <td>
-                  <a href="https://myprofessionalwebsite-lraw.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit">
-                    🌐 myprofessionalwebsite-lraw.vercel.app
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-                  </a>
-                </td>
-                <td>
-                  <a href="https://github.com/rsnavarro-pe/My_Professional_Website" target="_blank" rel="noopener noreferrer" class="link-item">
-                    <svg height="14" viewBox="0 0 16 16" width="14" fill="currentColor"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>
-                    rsnavarro-pe/My_Professional_Website
-                  </a>
-                </td>
-                <td>
-                  <span class="badge badge-fw">Other</span>
-                </td>
-                <td>
-                  <span class="meta-text">2026-10-21</span>
-                </td>
-                <td>
-                  <a href="https://vercel.com/rsnavarro-pes-projects/my_professional_website-lraw" target="_blank" rel="noopener noreferrer" class="btn-vc">
-                    Dashboard ↗
-                  </a>
-                </td>
-              </tr>
-            
               <tr class="item-row" data-type="vercel" data-name="my-portfolio" data-search="my-portfolio https://my-portfolio-nine-theta-6ntd1pjxb8.vercel.app rsnavarro-pe/my_portfolio">
                 <td>
                   <strong>my-portfolio</strong>
@@ -3412,35 +3275,6 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="vercel" data-name="prompt-marimba-hch6awj" data-search="prompt-marimba-hch6awj https://prompt-marimba-hch6awj.vercel.app rsnavarro-pe/my_professional_website">
-                <td>
-                  <strong>prompt-marimba-hch6awj</strong>
-                </td>
-                <td>
-                  <a href="https://prompt-marimba-hch6awj.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit">
-                    🌐 prompt-marimba-hch6awj.vercel.app
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-                  </a>
-                </td>
-                <td>
-                  <a href="https://github.com/rsnavarro-pe/My_Professional_Website" target="_blank" rel="noopener noreferrer" class="link-item">
-                    <svg height="14" viewBox="0 0 16 16" width="14" fill="currentColor"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>
-                    rsnavarro-pe/My_Professional_Website
-                  </a>
-                </td>
-                <td>
-                  <span class="badge badge-fw">Other</span>
-                </td>
-                <td>
-                  <span class="meta-text">2026-10-21</span>
-                </td>
-                <td>
-                  <a href="https://vercel.com/rsnavarro-pes-projects/prompt-marimba-hch6awj" target="_blank" rel="noopener noreferrer" class="btn-vc">
-                    Dashboard ↗
-                  </a>
-                </td>
-              </tr>
-            
               <tr class="item-row" data-type="vercel" data-name="pump-station" data-search="pump-station https://pump-station.vercel.app rsnavarro-pe/pump-station">
                 <td>
                   <strong>pump-station</strong>
@@ -3465,32 +3299,6 @@
                 </td>
                 <td>
                   <a href="https://vercel.com/rsnavarro-pes-projects/pump-station" target="_blank" rel="noopener noreferrer" class="btn-vc">
-                    Dashboard ↗
-                  </a>
-                </td>
-              </tr>
-            
-              <tr class="item-row" data-type="vercel" data-name="racing-marimba-0b0ht6j" data-search="racing-marimba-0b0ht6j https://temporary-racing-marimba-0b0ht6j.vercel.app ">
-                <td>
-                  <strong>racing-marimba-0b0ht6j</strong>
-                </td>
-                <td>
-                  <a href="https://temporary-racing-marimba-0b0ht6j.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit">
-                    🌐 temporary-racing-marimba-0b0ht6j.vercel.app
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-                  </a>
-                </td>
-                <td>
-                  <span class="meta-text">—</span>
-                </td>
-                <td>
-                  <span class="badge badge-fw">Other</span>
-                </td>
-                <td>
-                  <span class="meta-text">2026-10-19</span>
-                </td>
-                <td>
-                  <a href="https://vercel.com/rsnavarro-pes-projects/racing-marimba-0b0ht6j" target="_blank" rel="noopener noreferrer" class="btn-vc">
                     Dashboard ↗
                   </a>
                 </td>
@@ -3549,35 +3357,6 @@
                 </td>
                 <td>
                   <a href="https://vercel.com/rsnavarro-pes-projects/rsn-swmm-toolkit" target="_blank" rel="noopener noreferrer" class="btn-vc">
-                    Dashboard ↗
-                  </a>
-                </td>
-              </tr>
-            
-              <tr class="item-row" data-type="vercel" data-name="rushing-argon-8c4bl46" data-search="rushing-argon-8c4bl46 https://rushing-argon-8c4bl46.vercel.app rsnavarro-pe/my_professional_website">
-                <td>
-                  <strong>rushing-argon-8c4bl46</strong>
-                </td>
-                <td>
-                  <a href="https://rushing-argon-8c4bl46.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit">
-                    🌐 rushing-argon-8c4bl46.vercel.app
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-                  </a>
-                </td>
-                <td>
-                  <a href="https://github.com/rsnavarro-pe/My_Professional_Website" target="_blank" rel="noopener noreferrer" class="link-item">
-                    <svg height="14" viewBox="0 0 16 16" width="14" fill="currentColor"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>
-                    rsnavarro-pe/My_Professional_Website
-                  </a>
-                </td>
-                <td>
-                  <span class="badge badge-fw">Other</span>
-                </td>
-                <td>
-                  <span class="meta-text">2026-10-21</span>
-                </td>
-                <td>
-                  <a href="https://vercel.com/rsnavarro-pes-projects/rushing-argon-8c4bl46" target="_blank" rel="noopener noreferrer" class="btn-vc">
                     Dashboard ↗
                   </a>
                 </td>
@@ -3873,35 +3652,6 @@
                 </td>
               </tr>
             
-              <tr class="item-row" data-type="vercel" data-name="water-demand-calculator" data-search="water-demand-calculator https://water-demand-calculator-two.vercel.app rsnavarro-pe/water-demand">
-                <td>
-                  <strong>water-demand-calculator</strong>
-                </td>
-                <td>
-                  <a href="https://water-demand-calculator-two.vercel.app" target="_blank" rel="noopener noreferrer" class="btn-visit">
-                    🌐 water-demand-calculator-two.vercel.app
-                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-                  </a>
-                </td>
-                <td>
-                  <a href="https://github.com/rsnavarro-pe/Water-Demand" target="_blank" rel="noopener noreferrer" class="link-item">
-                    <svg height="14" viewBox="0 0 16 16" width="14" fill="currentColor"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>
-                    rsnavarro-pe/Water-Demand
-                  </a>
-                </td>
-                <td>
-                  <span class="badge badge-fw">Other</span>
-                </td>
-                <td>
-                  <span class="meta-text">2026-10-19</span>
-                </td>
-                <td>
-                  <a href="https://vercel.com/rsnavarro-pes-projects/water-demand-calculator" target="_blank" rel="noopener noreferrer" class="btn-vc">
-                    Dashboard ↗
-                  </a>
-                </td>
-              </tr>
-            
               <tr class="item-row" data-type="vercel" data-name="water-meter-install" data-search="water-meter-install https://water-meter-install.vercel.app rsnavarro-pe/water_meter_install">
                 <td>
                   <strong>water-meter-install</strong>
@@ -3995,8 +3745,8 @@
     </div>
 
     <footer>
-      <p>Updated on November 10, 2026 for <strong>Ronnie Navarro (@rsnavarro-pe)</strong>.</p>
-      <p style="margin-top: 4px;">100% Repository Coverage: 55 GitHub Repositories · 61 Vercel Deployments</p>
+      <p>Cleaned & Reconciled on November 10, 2026 for <strong>Ronnie Navarro (@rsnavarro-pe)</strong>.</p>
+      <p style="margin-top: 4px;">Exact 1-to-1 Match: 55 GitHub Repositories ↔ 55 Vercel Cloud Deployments</p>
     </footer>
   </div>
 
@@ -4020,9 +3770,6 @@
       } else if (tab === 'vercel') {
         secGh.style.display = 'none';
         secVc.style.display = 'block';
-      } else if (tab === 'connected') {
-        secGh.style.display = 'block';
-        secVc.style.display = 'block';
       }
       filterContent();
     }
@@ -4033,16 +3780,11 @@
 
       rows.forEach(row => {
         const type = row.getAttribute('data-type');
-        const isConnected = row.getAttribute('data-connected') === 'true';
         const searchTarget = row.getAttribute('data-search') || '';
         
         let tabMatch = true;
         if (currentTab === 'github' && type !== 'github') tabMatch = false;
         if (currentTab === 'vercel' && type !== 'vercel') tabMatch = false;
-        if (currentTab === 'connected') {
-          if (type === 'github' && !isConnected) tabMatch = false;
-          if (type === 'vercel' && !row.getAttribute('data-search').includes('github.com')) tabMatch = false;
-        }
 
         const queryMatch = !q || searchTarget.includes(q);
 

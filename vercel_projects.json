@@ -308,28 +308,6 @@
     "updatedAt": "2026-10-19"
   },
   {
-    "id": "prj_V5j5E0R4kX43qUJAsVPlTY6PsYNx",
-    "name": "my_professional_website",
-    "framework": "Other",
-    "nodeVersion": "24.x",
-    "liveUrl": "https://myprofessionalwebsite-rho.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my_professional_website",
-    "gitRepo": "rsnavarro-pe/My_Professional_Website",
-    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-    "updatedAt": "2026-10-21"
-  },
-  {
-    "id": "prj_vQ9YSsihKswwgG6zsmjxZBqreVux",
-    "name": "my_professional_website-lraw",
-    "framework": "Other",
-    "nodeVersion": "24.x",
-    "liveUrl": "https://myprofessionalwebsite-lraw.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my_professional_website-lraw",
-    "gitRepo": "rsnavarro-pe/My_Professional_Website",
-    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-    "updatedAt": "2026-10-21"
-  },
-  {
     "id": "prj_lwmHcDUi04Sfxc0cGrLOcQorYdQH",
     "name": "my-portfolio",
     "framework": "Other",
@@ -451,17 +429,6 @@
     "updatedAt": "2026-10-19"
   },
   {
-    "id": "prj_efiHNha7HSnesbsyEMmtpnTr4Out",
-    "name": "prompt-marimba-hch6awj",
-    "framework": "Other",
-    "nodeVersion": "24.x",
-    "liveUrl": "https://prompt-marimba-hch6awj.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/prompt-marimba-hch6awj",
-    "gitRepo": "rsnavarro-pe/My_Professional_Website",
-    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-    "updatedAt": "2026-10-21"
-  },
-  {
     "id": "prj_pO0h1S2KJ9Yhr1Glm8dglBjITY0j",
     "name": "pump-station",
     "framework": "Other",
@@ -471,17 +438,6 @@
     "gitRepo": "rsnavarro-pe/Pump-Station",
     "gitUrl": "https://github.com/rsnavarro-pe/Pump-Station",
     "updatedAt": "2026-11-10"
-  },
-  {
-    "id": "prj_4xcrwZW3IwgIzgg7CT6WH2twJITt",
-    "name": "racing-marimba-0b0ht6j",
-    "framework": "Other",
-    "nodeVersion": "24.x",
-    "liveUrl": "https://temporary-racing-marimba-0b0ht6j.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/racing-marimba-0b0ht6j",
-    "gitRepo": null,
-    "gitUrl": null,
-    "updatedAt": "2026-10-19"
   },
   {
     "id": "prj_sPlIAbuG46xvjKn5pGL070VHOt7D",
@@ -504,17 +460,6 @@
     "gitRepo": "rsnavarro-pe/RSN-SWMM-Toolkit",
     "gitUrl": "https://github.com/rsnavarro-pe/RSN-SWMM-Toolkit",
     "updatedAt": "2026-10-30"
-  },
-  {
-    "id": "prj_zRfCKmYq8tIXPav2WbSWhuqus2V1",
-    "name": "rushing-argon-8c4bl46",
-    "framework": "Other",
-    "nodeVersion": "24.x",
-    "liveUrl": "https://rushing-argon-8c4bl46.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rushing-argon-8c4bl46",
-    "gitRepo": "rsnavarro-pe/My_Professional_Website",
-    "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-    "updatedAt": "2026-10-21"
   },
   {
     "id": "prj_FnVIk272dUQ1QWB4oa56XPU5pOsR",
@@ -622,17 +567,6 @@
     "nodeVersion": "24.x",
     "liveUrl": "https://water-demand.vercel.app",
     "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand",
-    "gitRepo": "rsnavarro-pe/Water-Demand",
-    "gitUrl": "https://github.com/rsnavarro-pe/Water-Demand",
-    "updatedAt": "2026-10-19"
-  },
-  {
-    "id": "prj_0ONwXKoiqnYcTiBldqsYCU53lbRK",
-    "name": "water-demand-calculator",
-    "framework": "Other",
-    "nodeVersion": "24.x",
-    "liveUrl": "https://water-demand-calculator-two.vercel.app",
-    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand-calculator",
     "gitRepo": "rsnavarro-pe/Water-Demand",
     "gitUrl": "https://github.com/rsnavarro-pe/Water-Demand",
     "updatedAt": "2026-10-19"

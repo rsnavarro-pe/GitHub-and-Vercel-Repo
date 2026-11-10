@@ -607,56 +607,12 @@
     "updatedAt": "2026-10-21",
     "linkedVercel": [
       {
-        "id": "prj_V5j5E0R4kX43qUJAsVPlTY6PsYNx",
-        "name": "my_professional_website",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://myprofessionalwebsite-rho.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my_professional_website",
-        "gitRepo": "rsnavarro-pe/My_Professional_Website",
-        "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-        "updatedAt": "2026-10-21"
-      },
-      {
-        "id": "prj_vQ9YSsihKswwgG6zsmjxZBqreVux",
-        "name": "my_professional_website-lraw",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://myprofessionalwebsite-lraw.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my_professional_website-lraw",
-        "gitRepo": "rsnavarro-pe/My_Professional_Website",
-        "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-        "updatedAt": "2026-10-21"
-      },
-      {
         "id": "prj_BPd43vwTvLVD0Q8KLhkBXHjvyeGb",
         "name": "my-professional-website",
         "framework": "Other",
         "nodeVersion": "24.x",
         "liveUrl": "https://my-professional-website-navy.vercel.app",
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-professional-website",
-        "gitRepo": "rsnavarro-pe/My_Professional_Website",
-        "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-        "updatedAt": "2026-10-21"
-      },
-      {
-        "id": "prj_efiHNha7HSnesbsyEMmtpnTr4Out",
-        "name": "prompt-marimba-hch6awj",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://prompt-marimba-hch6awj.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/prompt-marimba-hch6awj",
-        "gitRepo": "rsnavarro-pe/My_Professional_Website",
-        "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-        "updatedAt": "2026-10-21"
-      },
-      {
-        "id": "prj_zRfCKmYq8tIXPav2WbSWhuqus2V1",
-        "name": "rushing-argon-8c4bl46",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://rushing-argon-8c4bl46.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rushing-argon-8c4bl46",
         "gitRepo": "rsnavarro-pe/My_Professional_Website",
         "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
         "updatedAt": "2026-10-21"
@@ -1117,17 +1073,6 @@
         "nodeVersion": "24.x",
         "liveUrl": "https://water-demand.vercel.app",
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand",
-        "gitRepo": "rsnavarro-pe/Water-Demand",
-        "gitUrl": "https://github.com/rsnavarro-pe/Water-Demand",
-        "updatedAt": "2026-10-19"
-      },
-      {
-        "id": "prj_0ONwXKoiqnYcTiBldqsYCU53lbRK",
-        "name": "water-demand-calculator",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://water-demand-calculator-two.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand-calculator",
         "gitRepo": "rsnavarro-pe/Water-Demand",
         "gitUrl": "https://github.com/rsnavarro-pe/Water-Demand",
         "updatedAt": "2026-10-19"
