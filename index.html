@@ -274,8 +274,73 @@
       border-top: 1px solid var(--card-border);
     }
   </style>
+<style id="rsnGateStyles">
+    :root {
+      --graphite: #2C2C2E;
+      --terracotta: #90472D;
+      --terracotta-hover: #733621;
+      --offwhite: #F5F0EC;
+      --font-aptos: 'Aptos', 'Aptos Display', Calibri, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+    #rsnGateOverlay {
+      position: fixed;
+      inset: 0;
+      z-index: 99999;
+      background: var(--offwhite);
+      font-family: var(--font-aptos);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: opacity 0.3s;
+    }
+    .rsn-gate-card {
+      background: #ffffff;
+      border: 1px solid #d9d2c8;
+      border-top: 4px solid var(--terracotta);
+      border-radius: 16px;
+      padding: 2.4rem 2rem;
+      max-width: 440px;
+      width: 90%;
+      text-align: center;
+      box-shadow: 0 16px 36px rgba(44, 44, 46, 0.10);
+      font-family: var(--font-aptos);
+    }
+    .rsn-gate-icon { font-size: 2.8rem; line-height: 1; margin-bottom: 0.5rem; }
+    .rsn-gate-title { margin: 0 0 0.25rem; font-size: 1.55rem; font-weight: 700; color: var(--graphite); font-family: var(--font-aptos); }
+    .rsn-gate-subtitle { margin: 0 0 1.5rem; font-size: 0.82rem; color: #555555; font-family: var(--font-aptos); }
+    .rsn-gate-input { width: 100%; padding: 0.75rem 1rem; border: 1px solid #d9d2c8; border-radius: 8px; font-size: 1rem; background: var(--offwhite); color: var(--graphite); text-align: center; margin-bottom: 0.6rem; outline: none; box-sizing: border-box; font-family: var(--font-aptos); transition: border-color 0.2s, box-shadow 0.2s; }
+    .rsn-gate-input:focus { border-color: var(--terracotta); box-shadow: 0 0 0 3px rgba(144, 71, 45, 0.15); }
+    .rsn-gate-remember { display: flex; align-items: center; justify-content: center; gap: 8px; margin: 0.2rem 0 0.8rem; font-size: 0.85rem; color: #555555; cursor: pointer; user-select: none; font-family: var(--font-aptos); }
+    .rsn-gate-remember input[type="checkbox"] { width: 15px; height: 15px; accent-color: var(--terracotta); cursor: pointer; }
+    .rsn-gate-error { color: #dc2626; font-size: 0.88rem; min-height: 1.2em; margin: 0 0 0.6rem; font-family: var(--font-aptos); }
+    .rsn-gate-btn { width: 100%; padding: 0.75rem; background: var(--terracotta); color: #ffffff; border: none; border-radius: 8px; font-size: 1rem; font-weight: 700; cursor: pointer; transition: background 0.2s; font-family: var(--font-aptos); }
+    .rsn-gate-btn:hover { background: var(--terracotta-hover); }
+    .rsn-gate-link { font-size: 0.82rem; color: var(--terracotta); text-decoration: underline; cursor: pointer; font-family: var(--font-aptos); }
+    .rsn-gate-disclaimer { font-size: 0.73rem; color: #64748b; line-height: 1.55; margin-top: 1.4rem; padding-top: 1.2rem; border-top: 1px solid #e2e8f0; text-align: left; font-family: var(--font-aptos); }
+    #rsnFloatingPasswordBtn { position: fixed; top: 14px; right: 14px; z-index: 99997; background: #ffffff; color: var(--graphite); border: 1px solid #d9d2c8; border-radius: 8px; padding: 6px 14px; font-weight: 700; font-size: 0.82rem; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.08); font-family: var(--font-aptos); transition: all 0.2s; }
+    #rsnFloatingPasswordBtn:hover { border-color: var(--terracotta); color: var(--terracotta); }
+  </style>
 </head>
 <body>
+<div id="rsnGateOverlay">
+  <div class="rsn-gate-card">
+    <div class="rsn-gate-icon">🏛️</div>
+    <h1 class="rsn-gate-title">GitHub-and-Vercel-Repo</h1>
+    <p class="rsn-gate-subtitle">RSN Engineering Tool &middot; Ronnie S. Navarro, PE &nbsp;|&nbsp; &copy; <span id="rsnGateYear">2026</span></p>
+    <input type="password" id="rsnGatePasswordInput" class="rsn-gate-input" placeholder="Enter password" autocomplete="current-password">
+    <label class="rsn-gate-remember">
+      <input type="checkbox" id="rsnGateRememberMe">
+      <span>Remember me</span>
+    </label>
+    <p id="rsnGateError" class="rsn-gate-error"></p>
+    <button id="rsnGateUnlockBtn" class="rsn-gate-btn">🔓 Unlock</button>
+    <p style="margin:0.7rem 0 0;"><a href="#" id="rsnForgotPasswordLink" class="rsn-gate-link">Forgot password?</a></p>
+    <div class="rsn-gate-disclaimer">
+      <strong>Disclaimer:</strong> Although reasonable efforts have been made to ensure that the results presented in this tool are accurate, the developer is NOT responsible and assumes NO liability whatsoever for any results or any use made of the results obtained from this tool, nor for any damages or litigation that results from the use of this tool for any purpose.
+    </div>
+  </div>
+</div>
+<button id="rsnFloatingPasswordBtn" type="button" title="Lock application and return to password gate">🔒 Lock</button>
   <div class="container">
     <header>
       <div class="title-row">
@@ -3796,5 +3861,142 @@
       });
     }
   </script>
+<script id="rsnGateScript">
+(function () {
+  const STORAGE_PREFIX = 'githubandvercelrepo';
+  // Standard universal SHA-256 password hashes
+  const DEFAULT_HASHES = [
+    'c1c224b03cd9bc7b6a86d77f5dace40191766c485cd55dc48caf9ac873335d6f',
+    '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918'
+  ];
+  const PASSWORD_STORAGE_KEY = STORAGE_PREFIX + '_password_hash';
+  const SESSION_KEY = STORAGE_PREFIX + '_unlocked';
+
+  function safeGetItem(key) { try { return localStorage.getItem(key); } catch (e) { return null; } }
+  function safeSetItem(key, value) { try { localStorage.setItem(key, value); } catch (e) {} }
+
+  async function hashPassword(password) {
+    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(String(password)));
+    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  function isUnlocked() {
+    try {
+      return localStorage.getItem(SESSION_KEY) === '1' || sessionStorage.getItem(SESSION_KEY) === '1';
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function getStoredPasswordHash() {
+    return safeGetItem(PASSWORD_STORAGE_KEY);
+  }
+
+  async function attemptUnlock() {
+    const input = document.getElementById('rsnGatePasswordInput');
+    const remember = document.getElementById('rsnGateRememberMe') ? document.getElementById('rsnGateRememberMe').checked : false;
+    const rawVal = input.value || '';
+    const val = rawVal.trim();
+    const hash = await hashPassword(val);
+    const lowerHash = await hashPassword(val.toLowerCase());
+    const customHash = getStoredPasswordHash();
+
+    const isValid = DEFAULT_HASHES.includes(hash) || DEFAULT_HASHES.includes(lowerHash) || (customHash && (hash === customHash || lowerHash === customHash));
+
+    if (isValid) {
+      try {
+        if (remember) {
+          localStorage.setItem(SESSION_KEY, '1');
+        } else {
+          sessionStorage.setItem(SESSION_KEY, '1');
+        }
+      } catch (e) {}
+      const overlay = document.getElementById('rsnGateOverlay');
+      overlay.style.opacity = '0';
+      setTimeout(() => { overlay.style.display = 'none'; }, 300);
+    } else {
+      const err = document.getElementById('rsnGateError');
+      err.textContent = 'Incorrect password. Please try again.';
+      input.value = '';
+      input.focus();
+    }
+  }
+
+  function lockApp() {
+    try {
+      localStorage.removeItem(SESSION_KEY);
+      sessionStorage.removeItem(SESSION_KEY);
+    } catch (e) {}
+    const overlay = document.getElementById('rsnGateOverlay');
+    const input = document.getElementById('rsnGatePasswordInput');
+    const err = document.getElementById('rsnGateError');
+    const remember = document.getElementById('rsnGateRememberMe');
+    if (err) err.textContent = '';
+    if (remember) remember.checked = false;
+    if (input) input.value = '';
+    if (overlay) {
+      overlay.style.display = 'flex';
+      setTimeout(() => {
+        overlay.style.opacity = '1';
+        if (input) input.focus();
+      }, 10);
+    }
+  }
+
+  function resetToDefault() {
+    const ok = confirm("This resets the password to the default master key and clears any custom password. Continue?");
+    if (!ok) return;
+    try { localStorage.removeItem(PASSWORD_STORAGE_KEY); } catch (e) {}
+    try { sessionStorage.removeItem(SESSION_KEY); } catch (e) {}
+    try { localStorage.removeItem(SESSION_KEY); } catch (e) {}
+    const err = document.getElementById('rsnGateError');
+    err.textContent = 'Password reset to default. Enter password to unlock.';
+    document.getElementById('rsnGatePasswordInput').value = '';
+    document.getElementById('rsnGatePasswordInput').focus();
+  }
+
+  function initGate() {
+    document.querySelectorAll('#rsnCurrentYear, #rsnGateYear, .rsnYear').forEach(el => {
+      el.textContent = new Date().getFullYear();
+    });
+
+    // Always attach lock button listener (even if already unlocked)
+    const lockBtn = document.getElementById('rsnFloatingPasswordBtn') || document.getElementById('rsnLockBtn');
+    if (lockBtn) {
+      lockBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        lockApp();
+      });
+    }
+
+    const unlockBtn = document.getElementById('rsnGateUnlockBtn');
+    if (unlockBtn) unlockBtn.addEventListener('click', attemptUnlock);
+
+    const input = document.getElementById('rsnGatePasswordInput');
+    if (input) {
+      input.addEventListener('keydown', (e) => {
+        const err = document.getElementById('rsnGateError');
+        if (err) err.textContent = '';
+        if (e.key === 'Enter') attemptUnlock();
+      });
+    }
+
+    const forgotLink = document.getElementById('rsnForgotPasswordLink');
+    if (forgotLink) { forgotLink.addEventListener('click', (e) => { e.preventDefault(); resetToDefault(); }); }
+
+    // Check if previously unlocked
+    if (isUnlocked()) {
+      const overlay = document.getElementById('rsnGateOverlay');
+      if (overlay) overlay.style.display = 'none';
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initGate);
+  } else {
+    initGate();
+  }
+})();
+</script>
 </body>
 </html>
