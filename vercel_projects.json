@@ -154,6 +154,94 @@
     "updatedAt": "2026-11-05"
   },
   {
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_wind",
+    "name": "fluid-mechanics: asce7-wind-toolkit",
+    "framework": "ASCE 7 Wind",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app/wind",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
+    "updatedAt": "2026-11-12"
+  },
+  {
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_crane",
+    "name": "fluid-mechanics: crane-tp410",
+    "framework": "Crane TP410",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app/crane-tp410",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Crane_TP410_Toolkit",
+    "updatedAt": "2026-11-12"
+  },
+  {
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_vppf",
+    "name": "fluid-mechanics: flow-of-fluids-vppf",
+    "framework": "Valve & Friction",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app/vppf",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/blob/main/FlowOfFluids_VPPF.html",
+    "updatedAt": "2026-11-12"
+  },
+  {
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipeline",
+    "name": "fluid-mechanics: hydraulic-studio-pipeline",
+    "framework": "Pipeline EGL/HGL",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app/pipeline",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulic%20Studio-Pipeline",
+    "updatedAt": "2026-11-12"
+  },
+  {
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_stormwater",
+    "name": "fluid-mechanics: hydraulics-studio-stormwater",
+    "framework": "Stormwater Studio",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app/stormwater",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulics%20Studio%20Stormwater",
+    "updatedAt": "2026-11-12"
+  },
+  {
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydropuls",
+    "name": "fluid-mechanics: hydropuls-flood-routing",
+    "framework": "SFWMD Hydrology",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app/hydropuls",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/SFWMD%20Flood%20Routing",
+    "updatedAt": "2026-11-12"
+  },
+  {
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipes",
+    "name": "fluid-mechanics: pipe-systems",
+    "framework": "EPANET / Surge",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app/pipes",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Pipe_Systems_Toolkit",
+    "updatedAt": "2026-11-12"
+  },
+  {
+    "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_structural",
+    "name": "fluid-mechanics: structural-beam-rc",
+    "framework": "ACI 318 Concrete",
+    "nodeVersion": "26.x",
+    "liveUrl": "https://fluid-mechanics-seven.vercel.app/structural",
+    "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+    "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+    "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
+    "updatedAt": "2026-11-12"
+  },
+  {
     "id": "prj_EW8EmpayhW3PkcIb51dnxCfnbm0Q",
     "name": "folder-explorer",
     "framework": "Other",

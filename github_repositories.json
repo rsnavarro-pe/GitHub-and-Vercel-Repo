@@ -295,7 +295,255 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
         "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics",
-        "updatedAt": "2026-11-05"
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipes",
+        "name": "fluid-mechanics: pipe-systems",
+        "framework": "EPANET / Surge",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/pipes",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Pipe_Systems_Toolkit",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_crane",
+        "name": "fluid-mechanics: crane-tp410",
+        "framework": "Crane TP410",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/crane-tp410",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Crane_TP410_Toolkit",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_vppf",
+        "name": "fluid-mechanics: flow-of-fluids-vppf",
+        "framework": "Valve & Friction",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/vppf",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/blob/main/FlowOfFluids_VPPF.html",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydropuls",
+        "name": "fluid-mechanics: hydropuls-flood-routing",
+        "framework": "SFWMD Hydrology",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/hydropuls",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/SFWMD%20Flood%20Routing",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipeline",
+        "name": "fluid-mechanics: hydraulic-studio-pipeline",
+        "framework": "Pipeline EGL/HGL",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/pipeline",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulic%20Studio-Pipeline",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_stormwater",
+        "name": "fluid-mechanics: hydraulics-studio-stormwater",
+        "framework": "Stormwater Studio",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/stormwater",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulics%20Studio%20Stormwater",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_structural",
+        "name": "fluid-mechanics: structural-beam-rc",
+        "framework": "ACI 318 Concrete",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/structural",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_wind",
+        "name": "fluid-mechanics: asce7-wind-toolkit",
+        "framework": "ASCE 7 Wind",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/wind",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Fluid-Mechanics: ASCE-7-Wind",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
+    "description": "ASCE 7 Wind Toolkit: ASCE 7 Wind Load Analysis Toolkit: MWFRS and Components & Cladding (C&C).",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_wind",
+        "name": "fluid-mechanics: asce7-wind-toolkit",
+        "framework": "ASCE 7 Wind",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/wind",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Fluid-Mechanics: Crane-TP410",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Crane_TP410_Toolkit",
+    "description": "Crane TP410 Toolkit: Crane Technical Paper 410 Four Module Flow of Fluids Calculator v2.5.",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_crane",
+        "name": "fluid-mechanics: crane-tp410",
+        "framework": "Crane TP410",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/crane-tp410",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Crane_TP410_Toolkit",
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Fluid-Mechanics: Flow-of-Fluids-VPPF",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/blob/main/FlowOfFluids_VPPF.html",
+    "description": "Flow of Fluids VPPF: Valve pressure drop and pipe friction (VPPF) calculator.",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_vppf",
+        "name": "fluid-mechanics: flow-of-fluids-vppf",
+        "framework": "Valve & Friction",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/vppf",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/blob/main/FlowOfFluids_VPPF.html",
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Fluid-Mechanics: Hydraulic-Studio---Pipeline",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulic%20Studio-Pipeline",
+    "description": "Hydraulic Studio - Pipeline: Hydraulic Studio Pipeline pressure profile and EGL/HGL visualizer.",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipeline",
+        "name": "fluid-mechanics: hydraulic-studio-pipeline",
+        "framework": "Pipeline EGL/HGL",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/pipeline",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulic%20Studio-Pipeline",
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Fluid-Mechanics: Hydraulics-Studio---Stormwater",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulics%20Studio%20Stormwater",
+    "description": "Hydraulics Studio - Stormwater: FDOT & SFWMD stormwater detention basins, weirs, and orifice hydraulics.",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_stormwater",
+        "name": "fluid-mechanics: hydraulics-studio-stormwater",
+        "framework": "Stormwater Studio",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/stormwater",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulics%20Studio%20Stormwater",
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Fluid-Mechanics: HydroPuls-Flood-Routing",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/SFWMD%20Flood%20Routing",
+    "description": "HydroPuls Flood Routing: SFWMD cascaded reservoir flood routing and HydroPuls stormwater attenuation.",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydropuls",
+        "name": "fluid-mechanics: hydropuls-flood-routing",
+        "framework": "SFWMD Hydrology",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/hydropuls",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/SFWMD%20Flood%20Routing",
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Fluid-Mechanics: Pipe-Systems",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Pipe_Systems_Toolkit",
+    "description": "Pipe Systems Toolkit: Cornell Lift Station, loop network EPANET engine, water hammer surge, and VFDs.",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipes",
+        "name": "fluid-mechanics: pipe-systems",
+        "framework": "EPANET / Surge",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/pipes",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Pipe_Systems_Toolkit",
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Fluid-Mechanics: Structural-Beam-RC",
+    "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
+    "description": "Structural Beam RC Toolkit: Reinforced concrete beam analysis, moment capacity, and shear verification.",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_structural",
+        "name": "fluid-mechanics: structural-beam-rc",
+        "framework": "ACI 318 Concrete",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/structural",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
+        "updatedAt": "2026-11-12"
       }
     ]
   },
