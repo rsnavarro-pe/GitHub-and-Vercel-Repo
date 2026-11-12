@@ -486,13 +486,13 @@
   {
     "id": "prj_4MrjjJaK6Dvf3blHYM2HUEbt3b7Q",
     "name": "pressurized-flow",
-    "framework": "Other",
+    "framework": "Darcy-Weisbach / Colebrook",
     "nodeVersion": "26.x",
     "liveUrl": "https://pressurized-flow.vercel.app",
     "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pressurized-flow",
     "gitRepo": "rsnavarro-pe/Pressurized-Flow",
     "gitUrl": "https://github.com/rsnavarro-pe/Pressurized-Flow",
-    "updatedAt": "2026-11-10"
+    "updatedAt": "2026-11-12"
   },
   {
     "id": "prj_RI4r1BCP72iEfcrPEwYcysmu5cc5",

@@ -9,7 +9,7 @@
 - **Total GitHub Repositories & Modules:** 63
 - **Total Vercel Projects & Deployments:** 63
 - **Coverage:** Exact 1-to-1 Match (63 / 63 — 100% Deployed)
-- **Fluid-Mechanics Branch Apps:** Includes all 8 specialized hydraulic & structural engineering tools deployed on Vercel routes.
+- **Status:** All repositories, Fluid-Mechanics branch apps, and Pressurized-Flow Studio fully deployed and verified live.
 
 ---
 
@@ -68,7 +68,7 @@
 | 42 | **partially-full-pipe-flow** | [partially-full-pipe-flow.vercel.app](https://partially-full-pipe-flow.vercel.app) | [rsnavarro-pe/Partially-Full-Pipe-Flow](https://github.com/rsnavarro-pe/Partially-Full-Pipe-Flow) | Other |
 | 43 | **pay-app-tracker** | [pay-app-tracker.vercel.app](https://pay-app-tracker.vercel.app) | [rsnavarro-pe/PayApp-Tracker](https://github.com/rsnavarro-pe/PayApp-Tracker) | Other |
 | 44 | **pipeline-hydraulics** | [pipeline-hydraulics.vercel.app](https://pipeline-hydraulics.vercel.app) | [rsnavarro-pe/pipeline-hydraulics](https://github.com/rsnavarro-pe/pipeline-hydraulics) | Other |
-| 45 | **pressurized-flow** | [pressurized-flow.vercel.app](https://pressurized-flow.vercel.app) | [rsnavarro-pe/Pressurized-Flow](https://github.com/rsnavarro-pe/Pressurized-Flow) | Other |
+| 45 | **pressurized-flow** | [pressurized-flow.vercel.app](https://pressurized-flow.vercel.app) | [rsnavarro-pe/Pressurized-Flow](https://github.com/rsnavarro-pe/Pressurized-Flow) | Darcy-Weisbach / Colebrook |
 | 46 | **project-management-suite** | [project-management-suite-dun.vercel.app](https://project-management-suite-dun.vercel.app) | [rsnavarro-pe/Project-Management-Suite](https://github.com/rsnavarro-pe/Project-Management-Suite) | Other |
 | 47 | **project-manager** | [project-manager-ten-nu.vercel.app](https://project-manager-ten-nu.vercel.app) | [rsnavarro-pe/Project_Manager](https://github.com/rsnavarro-pe/Project_Manager) | Other |
 | 48 | **pump-station** | [pump-station.vercel.app](https://pump-station.vercel.app) | [rsnavarro-pe/Pump-Station](https://github.com/rsnavarro-pe/Pump-Station) | Other |
