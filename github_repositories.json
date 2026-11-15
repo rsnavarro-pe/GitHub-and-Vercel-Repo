@@ -4,7 +4,7 @@
     "url": "https://github.com/rsnavarro-pe/Advanced-GIS-Workbench",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_ZoEOcKMGjNcUV5HU9RR8pco5OrLz",
@@ -15,7 +15,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/advanced-gis-workbench",
         "gitRepo": "rsnavarro-pe/Advanced-GIS-Workbench",
         "gitUrl": "https://github.com/rsnavarro-pe/Advanced-GIS-Workbench",
-        "updatedAt": "2026-11-09"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -24,7 +24,7 @@
     "url": "https://github.com/rsnavarro-pe/Broad-Crested-Weir",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_HAvGS2G0RelZXC0vV80PFVdSKvUO",
@@ -35,7 +35,27 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/broad-crested-weir",
         "gitRepo": "rsnavarro-pe/Broad-Crested-Weir",
         "gitUrl": "https://github.com/rsnavarro-pe/Broad-Crested-Weir",
-        "updatedAt": "2026-11-02"
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "cad-works-web",
+    "url": "https://github.com/rsnavarro-pe/cad-works-web",
+    "description": "CAD Works \u2014 Civil & CAD Engineering Web Application",
+    "isPrivate": true,
+    "updatedAt": "2026-11-14",
+    "linkedVercel": [
+      {
+        "id": "prj_A8u5X5dYu0DIBRAXLyfvWq4p4kpL",
+        "name": "cad-works-web",
+        "framework": "Other",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://cad-works-web.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/cad-works-web",
+        "gitRepo": "rsnavarro-pe/cad-works-web",
+        "gitUrl": "https://github.com/rsnavarro-pe/cad-works-web",
+        "updatedAt": "2026-11-14"
       }
     ]
   },
@@ -44,7 +64,7 @@
     "url": "https://github.com/rsnavarro-pe/Circular-Culvert",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_zXzE2RGlcID4ldwWQvx8ffaaXgq3",
@@ -55,7 +75,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/circular-culvert",
         "gitRepo": "rsnavarro-pe/Circular-Culvert",
         "gitUrl": "https://github.com/rsnavarro-pe/Circular-Culvert",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -64,7 +84,7 @@
     "url": "https://github.com/rsnavarro-pe/Claude-skills",
     "description": "Centralized library of custom Claude Code skills across multiple computers",
     "isPrivate": true,
-    "updatedAt": "2026-04-28",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_B4g4GruwE7vdgIprW9xy7Z00ar6L",
@@ -75,7 +95,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/claude-skills",
         "gitRepo": "rsnavarro-pe/Claude-skills",
         "gitUrl": "https://github.com/rsnavarro-pe/Claude-skills",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -84,7 +104,7 @@
     "url": "https://github.com/rsnavarro-pe/ComboCalculator",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-10",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_VDfndKUUkFZLSrT60KMN0u8h5tj7",
@@ -95,7 +115,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/combocalculator",
         "gitRepo": "rsnavarro-pe/ComboCalculator",
         "gitUrl": "https://github.com/rsnavarro-pe/ComboCalculator",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -104,7 +124,7 @@
     "url": "https://github.com/rsnavarro-pe/construction-daily",
     "description": "construction daily report",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_LLk9KFuqvZLoXmbvmc51VMSoMlbb",
@@ -115,7 +135,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/construction-daily",
         "gitRepo": "rsnavarro-pe/construction-daily",
         "gitUrl": "https://github.com/rsnavarro-pe/construction-daily",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -124,7 +144,7 @@
     "url": "https://github.com/rsnavarro-pe/csv-purifier-studio",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_aqDC5vnrWTOT9Et8ycA1UxJ6epZw",
@@ -135,7 +155,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/csv-purifier-studio",
         "gitRepo": "rsnavarro-pe/csv-purifier-studio",
         "gitUrl": "https://github.com/rsnavarro-pe/csv-purifier-studio",
-        "updatedAt": "2026-11-09"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -144,7 +164,7 @@
     "url": "https://github.com/rsnavarro-pe/Engineering_Resources",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-06-14",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_UQHCaUPbg3ofHRv4gW4fsPViWwK2",
@@ -155,27 +175,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/engineering-resources",
         "gitRepo": "rsnavarro-pe/Engineering_Resources",
         "gitUrl": "https://github.com/rsnavarro-pe/Engineering_Resources",
-        "updatedAt": "2026-11-10"
-      }
-    ]
-  },
-  {
-    "name": "EPANET_Toolkit",
-    "url": "https://github.com/rsnavarro-pe/EPANET_Toolkit",
-    "description": "RSN Pipe Network Toolkit (single-file EPANET-style app)",
-    "isPrivate": true,
-    "updatedAt": "2026-10-30",
-    "linkedVercel": [
-      {
-        "id": "prj_gSBaqG6MRrnuyv9DPPViJshGQ3tm",
-        "name": "epanet-toolkit",
-        "framework": "Other",
-        "nodeVersion": "26.x",
-        "liveUrl": "https://epanet-toolkit.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-toolkit",
-        "gitRepo": "rsnavarro-pe/EPANET_Toolkit",
-        "gitUrl": "https://github.com/rsnavarro-pe/EPANET_Toolkit",
-        "updatedAt": "2026-10-30"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -184,7 +184,7 @@
     "url": "https://github.com/rsnavarro-pe/EPANET-Data-Builder",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_hjqtdnndhAfyXs0skEvGiaNMkqvP",
@@ -195,7 +195,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-data-builder",
         "gitRepo": "rsnavarro-pe/EPANET-Data-Builder",
         "gitUrl": "https://github.com/rsnavarro-pe/EPANET-Data-Builder",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -204,7 +204,7 @@
     "url": "https://github.com/rsnavarro-pe/EPANET-File-Converter",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-30",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_RsNy0GxEiGTuc9b6Cg50W9j4aHYz",
@@ -215,7 +215,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/watergems-to-epanet-converter",
         "gitRepo": "rsnavarro-pe/EPANET-File-Converter",
         "gitUrl": "https://github.com/rsnavarro-pe/EPANET-File-Converter",
-        "updatedAt": "2026-10-30"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -224,7 +224,7 @@
     "url": "https://github.com/rsnavarro-pe/EPANET-Solver",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-25",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_ohjJ3wT6POGhAlQpSbNNaofQZjMP",
@@ -235,7 +235,27 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-solver",
         "gitRepo": "rsnavarro-pe/EPANET-Solver",
         "gitUrl": "https://github.com/rsnavarro-pe/EPANET-Solver",
-        "updatedAt": "2026-10-25"
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "EPANET_Toolkit",
+    "url": "https://github.com/rsnavarro-pe/EPANET_Toolkit",
+    "description": "RSN Pipe Network Toolkit (single-file EPANET-style app)",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_gSBaqG6MRrnuyv9DPPViJshGQ3tm",
+        "name": "epanet-toolkit",
+        "framework": "Other",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://epanet-toolkit.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-toolkit",
+        "gitRepo": "rsnavarro-pe/EPANET_Toolkit",
+        "gitUrl": "https://github.com/rsnavarro-pe/EPANET_Toolkit",
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -244,7 +264,7 @@
     "url": "https://github.com/rsnavarro-pe/File_Folder_Pro",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_UyZVlmJWr2Qk2IqKw8F9WpNFWGYa",
@@ -255,7 +275,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/file-folder-pro",
         "gitRepo": "rsnavarro-pe/File_Folder_Pro",
         "gitUrl": "https://github.com/rsnavarro-pe/File_Folder_Pro",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -264,7 +284,7 @@
     "url": "https://github.com/rsnavarro-pe/Flow-of-Water",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_OBkFY5lkhFQ3myPN53zKIzIoYv6J",
@@ -275,7 +295,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/flow-of-water",
         "gitRepo": "rsnavarro-pe/Flow-of-Water",
         "gitUrl": "https://github.com/rsnavarro-pe/Flow-of-Water",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -284,7 +304,7 @@
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics",
     "description": "RSN Incompressible Fluid Mechanics Toolkit: 51 interactive civil engineering calculators, 100% responsive dynamic SVGs, and 205 automated benchmark tests.",
     "isPrivate": true,
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA",
@@ -298,18 +318,18 @@
         "updatedAt": "2026-11-12"
       },
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipes",
-        "name": "fluid-mechanics: pipe-systems",
-        "framework": "EPANET / Surge",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_asce7-wind",
+        "name": "fluid-mechanics: asce7-wind-toolkit",
+        "framework": "ASCE 7 Wind",
         "nodeVersion": "26.x",
-        "liveUrl": "https://fluid-mechanics-seven.vercel.app/pipes",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/wind",
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
         "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
-        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Pipe_Systems_Toolkit",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
         "updatedAt": "2026-11-12"
       },
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_crane",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_crane-tp410",
         "name": "fluid-mechanics: crane-tp410",
         "framework": "Crane TP410",
         "nodeVersion": "26.x",
@@ -320,7 +340,7 @@
         "updatedAt": "2026-11-12"
       },
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_vppf",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_flow-of-fluids-vppf",
         "name": "fluid-mechanics: flow-of-fluids-vppf",
         "framework": "Valve & Friction",
         "nodeVersion": "26.x",
@@ -331,18 +351,7 @@
         "updatedAt": "2026-11-12"
       },
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydropuls",
-        "name": "fluid-mechanics: hydropuls-flood-routing",
-        "framework": "SFWMD Hydrology",
-        "nodeVersion": "26.x",
-        "liveUrl": "https://fluid-mechanics-seven.vercel.app/hydropuls",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
-        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
-        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/SFWMD%20Flood%20Routing",
-        "updatedAt": "2026-11-12"
-      },
-      {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipeline",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydraulic-studio-pipeline",
         "name": "fluid-mechanics: hydraulic-studio-pipeline",
         "framework": "Pipeline EGL/HGL",
         "nodeVersion": "26.x",
@@ -353,7 +362,7 @@
         "updatedAt": "2026-11-12"
       },
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_stormwater",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydraulics-studio-stormwater",
         "name": "fluid-mechanics: hydraulics-studio-stormwater",
         "framework": "Stormwater Studio",
         "nodeVersion": "26.x",
@@ -364,22 +373,33 @@
         "updatedAt": "2026-11-12"
       },
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_structural",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydropuls-flood-routing",
+        "name": "fluid-mechanics: hydropuls-flood-routing",
+        "framework": "SFWMD Hydrology",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/hydropuls",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/SFWMD%20Flood%20Routing",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipe-systems",
+        "name": "fluid-mechanics: pipe-systems",
+        "framework": "EPANET / Surge",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://fluid-mechanics-seven.vercel.app/pipes",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
+        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
+        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Pipe_Systems_Toolkit",
+        "updatedAt": "2026-11-12"
+      },
+      {
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_structural-beam-rc",
         "name": "fluid-mechanics: structural-beam-rc",
         "framework": "ACI 318 Concrete",
         "nodeVersion": "26.x",
         "liveUrl": "https://fluid-mechanics-seven.vercel.app/structural",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
-        "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
-        "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
-        "updatedAt": "2026-11-12"
-      },
-      {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_wind",
-        "name": "fluid-mechanics: asce7-wind-toolkit",
-        "framework": "ASCE 7 Wind",
-        "nodeVersion": "26.x",
-        "liveUrl": "https://fluid-mechanics-seven.vercel.app/wind",
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/fluid-mechanics",
         "gitRepo": "rsnavarro-pe/Fluid-Mechanics",
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
@@ -390,12 +410,12 @@
   {
     "name": "Fluid-Mechanics: ASCE-7-Wind",
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
-    "description": "ASCE 7 Wind Toolkit: ASCE 7 Wind Load Analysis Toolkit: MWFRS and Components & Cladding (C&C).",
+    "description": "ASCE 7 Wind Toolkit: MWFRS and Components & Cladding (C&C).",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_wind",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_asce7-wind-toolkit",
         "name": "fluid-mechanics: asce7-wind-toolkit",
         "framework": "ASCE 7 Wind",
         "nodeVersion": "26.x",
@@ -410,12 +430,12 @@
   {
     "name": "Fluid-Mechanics: Crane-TP410",
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Crane_TP410_Toolkit",
-    "description": "Crane TP410 Toolkit: Crane Technical Paper 410 Four Module Flow of Fluids Calculator v2.5.",
+    "description": "Crane Technical Paper 410 Flow of Fluids Through Valves, Fittings & Pipe.",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_crane",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_crane-tp410",
         "name": "fluid-mechanics: crane-tp410",
         "framework": "Crane TP410",
         "nodeVersion": "26.x",
@@ -430,12 +450,12 @@
   {
     "name": "Fluid-Mechanics: Flow-of-Fluids-VPPF",
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/blob/main/FlowOfFluids_VPPF.html",
-    "description": "Flow of Fluids VPPF: Valve pressure drop and pipe friction (VPPF) calculator.",
+    "description": "Flow of Fluids in Valves, Pipes, and Fittings (VPPF) Calculator.",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_vppf",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_flow-of-fluids-vppf",
         "name": "fluid-mechanics: flow-of-fluids-vppf",
         "framework": "Valve & Friction",
         "nodeVersion": "26.x",
@@ -450,12 +470,12 @@
   {
     "name": "Fluid-Mechanics: Hydraulic-Studio---Pipeline",
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulic%20Studio-Pipeline",
-    "description": "Hydraulic Studio - Pipeline: Hydraulic Studio Pipeline pressure profile and EGL/HGL visualizer.",
+    "description": "Pipeline Hydraulic Studio: Energy Grade Line and Hydraulic Grade Line Solver.",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipeline",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydraulic-studio-pipeline",
         "name": "fluid-mechanics: hydraulic-studio-pipeline",
         "framework": "Pipeline EGL/HGL",
         "nodeVersion": "26.x",
@@ -470,12 +490,12 @@
   {
     "name": "Fluid-Mechanics: Hydraulics-Studio---Stormwater",
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulics%20Studio%20Stormwater",
-    "description": "Hydraulics Studio - Stormwater: FDOT & SFWMD stormwater detention basins, weirs, and orifice hydraulics.",
+    "description": "Stormwater Hydraulics Studio: Curb, Grate, Inlet and Gutter Flow Review.",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_stormwater",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydraulics-studio-stormwater",
         "name": "fluid-mechanics: hydraulics-studio-stormwater",
         "framework": "Stormwater Studio",
         "nodeVersion": "26.x",
@@ -490,12 +510,12 @@
   {
     "name": "Fluid-Mechanics: HydroPuls-Flood-Routing",
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/SFWMD%20Flood%20Routing",
-    "description": "HydroPuls Flood Routing: SFWMD cascaded reservoir flood routing and HydroPuls stormwater attenuation.",
+    "description": "HydroPuls & SFWMD Reservoir Stage-Storage-Discharge Level Pool Routing.",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydropuls",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_hydropuls-flood-routing",
         "name": "fluid-mechanics: hydropuls-flood-routing",
         "framework": "SFWMD Hydrology",
         "nodeVersion": "26.x",
@@ -510,12 +530,12 @@
   {
     "name": "Fluid-Mechanics: Pipe-Systems",
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Pipe_Systems_Toolkit",
-    "description": "Pipe Systems Toolkit: Cornell Lift Station, loop network EPANET engine, water hammer surge, and VFDs.",
+    "description": "Pipe Systems Hydraulic Toolkit: EPANET Simulation & Surge Analysis.",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipes",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_pipe-systems",
         "name": "fluid-mechanics: pipe-systems",
         "framework": "EPANET / Surge",
         "nodeVersion": "26.x",
@@ -530,12 +550,12 @@
   {
     "name": "Fluid-Mechanics: Structural-Beam-RC",
     "url": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
-    "description": "Structural Beam RC Toolkit: Reinforced concrete beam analysis, moment capacity, and shear verification.",
+    "description": "Reinforced Concrete Beam Analysis & Design (ACI 318 Criteria).",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
-        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_structural",
+        "id": "prj_X8zOFhwCJBeHduppjHeoeUWQc6iA_structural-beam-rc",
         "name": "fluid-mechanics: structural-beam-rc",
         "framework": "ACI 318 Concrete",
         "nodeVersion": "26.x",
@@ -552,7 +572,7 @@
     "url": "https://github.com/rsnavarro-pe/Folder_Explorer",
     "description": "folder explorer dashboard - categorize contents of a folder",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_EW8EmpayhW3PkcIb51dnxCfnbm0Q",
@@ -563,7 +583,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/folder-explorer",
         "gitRepo": "rsnavarro-pe/Folder_Explorer",
         "gitUrl": "https://github.com/rsnavarro-pe/Folder_Explorer",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -572,7 +592,7 @@
     "url": "https://github.com/rsnavarro-pe/GIS-Workbench",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_dYtfJqfGmRIJCyZk75vDG06g5G46",
@@ -583,16 +603,16 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/gis-workbench",
         "gitRepo": "rsnavarro-pe/GIS-Workbench",
         "gitUrl": "https://github.com/rsnavarro-pe/GIS-Workbench",
-        "updatedAt": "2026-11-09"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
   {
     "name": "GitHub-and-Vercel-Repo",
     "url": "https://github.com/rsnavarro-pe/GitHub-and-Vercel-Repo",
-    "description": "Centralized repository and deployment directory portal for RSN Engineering",
+    "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-10",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_05BcaZyMLoPYvF3biwAz8vbuDfL7",
@@ -603,7 +623,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/github-and-vercel-repo",
         "gitRepo": "rsnavarro-pe/GitHub-and-Vercel-Repo",
         "gitUrl": "https://github.com/rsnavarro-pe/GitHub-and-Vercel-Repo",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -612,7 +632,7 @@
     "url": "https://github.com/rsnavarro-pe/HGL-and-EGL",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_CVeOTMwy6WZOn5wQJoy6kBNfEWl4",
@@ -623,7 +643,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/hgl-and-egl",
         "gitRepo": "rsnavarro-pe/HGL-and-EGL",
         "gitUrl": "https://github.com/rsnavarro-pe/HGL-and-EGL",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -632,7 +652,7 @@
     "url": "https://github.com/rsnavarro-pe/HW-Pipe-Flow",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_pEhM5umMarLBzy6YQBU99QYqrYTb",
@@ -643,7 +663,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/hw-pipe-flow",
         "gitRepo": "rsnavarro-pe/HW-Pipe-Flow",
         "gitUrl": "https://github.com/rsnavarro-pe/HW-Pipe-Flow",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -652,7 +672,7 @@
     "url": "https://github.com/rsnavarro-pe/Hydrology-Calculator",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-07-08",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_J2UihJYHPt9Bk7ZPwui6QyDTGOs8",
@@ -663,7 +683,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/hydrology-calculator",
         "gitRepo": "rsnavarro-pe/Hydrology-Calculator",
         "gitUrl": "https://github.com/rsnavarro-pe/Hydrology-Calculator",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -672,7 +692,7 @@
     "url": "https://github.com/rsnavarro-pe/Incompressible-Orifice-Flow",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_9K61wXVyuZn8tU5hXjURNDZquJkQ",
@@ -683,7 +703,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/incompressible-orifice-flow",
         "gitRepo": "rsnavarro-pe/Incompressible-Orifice-Flow",
         "gitUrl": "https://github.com/rsnavarro-pe/Incompressible-Orifice-Flow",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -692,7 +712,7 @@
     "url": "https://github.com/rsnavarro-pe/Leak-Calculator",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_LFy3IdQcMw9N2N77vVojA5dYLHzF",
@@ -703,7 +723,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/leak-calculator",
         "gitRepo": "rsnavarro-pe/Leak-Calculator",
         "gitUrl": "https://github.com/rsnavarro-pe/Leak-Calculator",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -712,7 +732,7 @@
     "url": "https://github.com/rsnavarro-pe/Lift-Station-Design",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_BHTuR37O8LaUsrtrrFKxRgaENraT",
@@ -723,7 +743,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/lift-station-design",
         "gitRepo": "rsnavarro-pe/Lift-Station-Design",
         "gitUrl": "https://github.com/rsnavarro-pe/Lift-Station-Design",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -732,7 +752,7 @@
     "url": "https://github.com/rsnavarro-pe/Local_Drive_Dashboard",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_9cl96lRWsPyK4n7WYKjZ7uTaPd9F",
@@ -743,7 +763,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/local-drive-dashboard",
         "gitRepo": "rsnavarro-pe/Local_Drive_Dashboard",
         "gitUrl": "https://github.com/rsnavarro-pe/Local_Drive_Dashboard",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -752,7 +772,7 @@
     "url": "https://github.com/rsnavarro-pe/LS-BCWWS-Advanced",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-20",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_pO164SoRCwH8B202lzs8V6DkE9Sd",
@@ -763,7 +783,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/ls-bcwws-advanced",
         "gitRepo": "rsnavarro-pe/LS-BCWWS-Advanced",
         "gitUrl": "https://github.com/rsnavarro-pe/LS-BCWWS-Advanced",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -772,7 +792,7 @@
     "url": "https://github.com/rsnavarro-pe/LS-BCWWS-Simple",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_tvP49ucVG1cqfasHm0uGL2jri70H",
@@ -783,7 +803,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/ls-bcwws-simple",
         "gitRepo": "rsnavarro-pe/LS-BCWWS-Simple",
         "gitUrl": "https://github.com/rsnavarro-pe/LS-BCWWS-Simple",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -792,7 +812,7 @@
     "url": "https://github.com/rsnavarro-pe/Meter-Consumption",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_e1Xdl4XHNJI0ZJeatMxJCWra5Lmd",
@@ -803,7 +823,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/meter-consumption",
         "gitRepo": "rsnavarro-pe/Meter-Consumption",
         "gitUrl": "https://github.com/rsnavarro-pe/Meter-Consumption",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -812,7 +832,7 @@
     "url": "https://github.com/rsnavarro-pe/Mobile-Folder-Pro",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_6NJGDB2iYjW38GVMa68AelKDR71k",
@@ -823,7 +843,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/mobile-folder-pro",
         "gitRepo": "rsnavarro-pe/Mobile-Folder-Pro",
         "gitUrl": "https://github.com/rsnavarro-pe/Mobile-Folder-Pro",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -832,7 +852,7 @@
     "url": "https://github.com/rsnavarro-pe/My_Portfolio",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-06-15",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_lwmHcDUi04Sfxc0cGrLOcQorYdQH",
@@ -843,7 +863,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-portfolio",
         "gitRepo": "rsnavarro-pe/My_Portfolio",
         "gitUrl": "https://github.com/rsnavarro-pe/My_Portfolio",
-        "updatedAt": "2026-06-15"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -852,7 +872,7 @@
     "url": "https://github.com/rsnavarro-pe/My_Professional_Website",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-21",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_BPd43vwTvLVD0Q8KLhkBXHjvyeGb",
@@ -863,7 +883,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-professional-website",
         "gitRepo": "rsnavarro-pe/My_Professional_Website",
         "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
-        "updatedAt": "2026-10-21"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -872,7 +892,7 @@
     "url": "https://github.com/rsnavarro-pe/Non-Uniform-Flow",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_WySf0uHnCpFNL6nnVQr1RJTWbvXF",
@@ -883,7 +903,27 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/non-uniform-flow",
         "gitRepo": "rsnavarro-pe/Non-Uniform-Flow",
         "gitUrl": "https://github.com/rsnavarro-pe/Non-Uniform-Flow",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "open-pdf-studio",
+    "url": "https://github.com/rsnavarro-pe/open-pdf-studio",
+    "description": "RSN PDF Studio \u2014 Browser-Based PDF Markup & Engineering Workbench",
+    "isPrivate": false,
+    "updatedAt": "2026-11-15",
+    "linkedVercel": [
+      {
+        "id": "prj_NEyFya27sAzC9Wy8SiWCN9xAzwsa",
+        "name": "open-pdf-studio",
+        "framework": "Other",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://open-pdf-studio-tau.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/open-pdf-studio",
+        "gitRepo": "rsnavarro-pe/open-pdf-studio",
+        "gitUrl": "https://github.com/rsnavarro-pe/open-pdf-studio",
+        "updatedAt": "2026-11-15"
       }
     ]
   },
@@ -892,7 +932,7 @@
     "url": "https://github.com/rsnavarro-pe/Orifice-Calculator",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_xz2GxtByQ01Y8RDGImrdHJnaOOyx",
@@ -903,7 +943,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/orifice-calculator",
         "gitRepo": "rsnavarro-pe/Orifice-Calculator",
         "gitUrl": "https://github.com/rsnavarro-pe/Orifice-Calculator",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -912,7 +952,7 @@
     "url": "https://github.com/rsnavarro-pe/Partially-Full-Pipe-Flow",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_QnKR5ZKAIsyauwYeQeT5dPKP6TYd",
@@ -923,7 +963,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/partially-full-pipe-flow",
         "gitRepo": "rsnavarro-pe/Partially-Full-Pipe-Flow",
         "gitUrl": "https://github.com/rsnavarro-pe/Partially-Full-Pipe-Flow",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -932,7 +972,7 @@
     "url": "https://github.com/rsnavarro-pe/PayApp-Tracker",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_G20MsogfxAzdzuRNUAGaoWiFsAgm",
@@ -943,7 +983,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pay-app-tracker",
         "gitRepo": "rsnavarro-pe/PayApp-Tracker",
         "gitUrl": "https://github.com/rsnavarro-pe/PayApp-Tracker",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -952,7 +992,7 @@
     "url": "https://github.com/rsnavarro-pe/Personal-Wikipedia",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-18",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_tXky5o41a0oQbiKp6Y4eM8kWDA4h",
@@ -963,7 +1003,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/my-wikipedia",
         "gitRepo": "rsnavarro-pe/Personal-Wikipedia",
         "gitUrl": "https://github.com/rsnavarro-pe/Personal-Wikipedia",
-        "updatedAt": "2026-10-18"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -972,7 +1012,7 @@
     "url": "https://github.com/rsnavarro-pe/pipeline-hydraulics",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_S9GHnnTC8kjA0LwRnKGGVKXRWu9f",
@@ -983,21 +1023,41 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pipeline-hydraulics",
         "gitRepo": "rsnavarro-pe/pipeline-hydraulics",
         "gitUrl": "https://github.com/rsnavarro-pe/pipeline-hydraulics",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "plan-works-web",
+    "url": "https://github.com/rsnavarro-pe/plan-works-web",
+    "description": "PlanWorks \u2014 Civil Infrastructure & Plan Review Web Platform",
+    "isPrivate": true,
+    "updatedAt": "2026-11-15",
+    "linkedVercel": [
+      {
+        "id": "prj_3kyG0gAwyIzMy7YzMNV8BOE96lbe",
+        "name": "plan-works-web",
+        "framework": "Other",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://plan-works-web.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/plan-works-web",
+        "gitRepo": "rsnavarro-pe/plan-works-web",
+        "gitUrl": "https://github.com/rsnavarro-pe/plan-works-web",
+        "updatedAt": "2026-11-15"
       }
     ]
   },
   {
     "name": "Pressurized-Flow",
     "url": "https://github.com/rsnavarro-pe/Pressurized-Flow",
-    "description": "Pressurized Flow Studio: Incompressible pipe flow hydraulics, Darcy-Weisbach head loss, Colebrook friction factor, flow rate, and pipe sizing.",
+    "description": "Engineering Tool / Repository",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_4MrjjJaK6Dvf3blHYM2HUEbt3b7Q",
         "name": "pressurized-flow",
-        "framework": "Darcy-Weisbach / Colebrook",
+        "framework": "Other",
         "nodeVersion": "26.x",
         "liveUrl": "https://pressurized-flow.vercel.app",
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pressurized-flow",
@@ -1008,31 +1068,11 @@
     ]
   },
   {
-    "name": "Project_Manager",
-    "url": "https://github.com/rsnavarro-pe/Project_Manager",
-    "description": "Engineering Tool / Repository",
-    "isPrivate": true,
-    "updatedAt": "2026-10-19",
-    "linkedVercel": [
-      {
-        "id": "prj_vPNpGN4pPKtnYz7L2Pyir9Lj9P3E",
-        "name": "project-manager",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://project-manager-ten-nu.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-manager",
-        "gitRepo": "rsnavarro-pe/Project_Manager",
-        "gitUrl": "https://github.com/rsnavarro-pe/Project_Manager",
-        "updatedAt": "2026-10-19"
-      }
-    ]
-  },
-  {
     "name": "Project-Management-Suite",
     "url": "https://github.com/rsnavarro-pe/Project-Management-Suite",
     "description": "Project Management Suite",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_RI4r1BCP72iEfcrPEwYcysmu5cc5",
@@ -1043,7 +1083,27 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-management-suite",
         "gitRepo": "rsnavarro-pe/Project-Management-Suite",
         "gitUrl": "https://github.com/rsnavarro-pe/Project-Management-Suite",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "Project_Manager",
+    "url": "https://github.com/rsnavarro-pe/Project_Manager",
+    "description": "Engineering Tool / Repository",
+    "isPrivate": true,
+    "updatedAt": "2026-11-15",
+    "linkedVercel": [
+      {
+        "id": "prj_vPNpGN4pPKtnYz7L2Pyir9Lj9P3E",
+        "name": "project-manager",
+        "framework": "Other",
+        "nodeVersion": "24.x",
+        "liveUrl": "https://project-manager-ten-nu.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-manager",
+        "gitRepo": "rsnavarro-pe/Project_Manager",
+        "gitUrl": "https://github.com/rsnavarro-pe/Project_Manager",
+        "updatedAt": "2026-11-15"
       }
     ]
   },
@@ -1052,7 +1112,7 @@
     "url": "https://github.com/rsnavarro-pe/Pump-Station",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_pO0h1S2KJ9Yhr1Glm8dglBjITY0j",
@@ -1063,7 +1123,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/pump-station",
         "gitRepo": "rsnavarro-pe/Pump-Station",
         "gitUrl": "https://github.com/rsnavarro-pe/Pump-Station",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1072,7 +1132,7 @@
     "url": "https://github.com/rsnavarro-pe/RSN-Calculator",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_sPlIAbuG46xvjKn5pGL070VHOt7D",
@@ -1083,7 +1143,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rsn-calculator",
         "gitRepo": "rsnavarro-pe/RSN-Calculator",
         "gitUrl": "https://github.com/rsnavarro-pe/RSN-Calculator",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1092,7 +1152,7 @@
     "url": "https://github.com/rsnavarro-pe/RSN-SWMM-Toolkit",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-30",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_mwZgNYPZPCO2T1B9SohZNGdXv7c6",
@@ -1103,7 +1163,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rsn-swmm-toolkit",
         "gitRepo": "rsnavarro-pe/RSN-SWMM-Toolkit",
         "gitUrl": "https://github.com/rsnavarro-pe/RSN-SWMM-Toolkit",
-        "updatedAt": "2026-10-30"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1112,7 +1172,7 @@
     "url": "https://github.com/rsnavarro-pe/SFWMD-Flood-Routing",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_FnVIk272dUQ1QWB4oa56XPU5pOsR",
@@ -1123,7 +1183,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/sfwmd-flood-routing",
         "gitRepo": "rsnavarro-pe/SFWMD-Flood-Routing",
         "gitUrl": "https://github.com/rsnavarro-pe/SFWMD-Flood-Routing",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1132,7 +1192,7 @@
     "url": "https://github.com/rsnavarro-pe/SFWMD-Methodology",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_ci4OwAgJxtVWtFaA3ML3lAJACu94",
@@ -1143,7 +1203,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/sfwmd-methodology",
         "gitRepo": "rsnavarro-pe/SFWMD-Methodology",
         "gitUrl": "https://github.com/rsnavarro-pe/SFWMD-Methodology",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1152,7 +1212,7 @@
     "url": "https://github.com/rsnavarro-pe/Shapefile-Viewer",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_PJu5D4Kncm2rMazaKGzEQyQGDFWW",
@@ -1163,7 +1223,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/shapefile-viewer",
         "gitRepo": "rsnavarro-pe/Shapefile-Viewer",
         "gitUrl": "https://github.com/rsnavarro-pe/Shapefile-Viewer",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1172,7 +1232,7 @@
     "url": "https://github.com/rsnavarro-pe/Sharp-Crested-Weir",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_atma8wqwwVqU5E5caJ0glK5jpaah",
@@ -1183,7 +1243,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/sharp-crested-weir",
         "gitRepo": "rsnavarro-pe/Sharp-Crested-Weir",
         "gitUrl": "https://github.com/rsnavarro-pe/Sharp-Crested-Weir",
-        "updatedAt": "2026-11-02"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1192,7 +1252,7 @@
     "url": "https://github.com/rsnavarro-pe/Storm-Drain",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-30",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_SobNdn57XZy6dxu3VNz4BvNTetxY",
@@ -1203,7 +1263,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/storm-drain",
         "gitRepo": "rsnavarro-pe/Storm-Drain",
         "gitUrl": "https://github.com/rsnavarro-pe/Storm-Drain",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1212,7 +1272,7 @@
     "url": "https://github.com/rsnavarro-pe/Storm-Inlet-Capacity",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_uvlDrKvzsCPUMg5nqojubEhz4Rur",
@@ -1223,7 +1283,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/storm-inlet-capacity",
         "gitRepo": "rsnavarro-pe/Storm-Inlet-Capacity",
         "gitUrl": "https://github.com/rsnavarro-pe/Storm-Inlet-Capacity",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1232,7 +1292,7 @@
     "url": "https://github.com/rsnavarro-pe/Time-of-Concentration",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_7vzyEVuJI4dGNNArIwRi6MVPntjU",
@@ -1243,7 +1303,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/time-of-concentration",
         "gitRepo": "rsnavarro-pe/Time-of-Concentration",
         "gitUrl": "https://github.com/rsnavarro-pe/Time-of-Concentration",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1252,7 +1312,7 @@
     "url": "https://github.com/rsnavarro-pe/Uniform-Open-Channel",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_RA4vYcNa2FU25wrGrwFvIrLhXAK7",
@@ -1263,16 +1323,16 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/uniform-open-channel",
         "gitRepo": "rsnavarro-pe/Uniform-Open-Channel",
         "gitUrl": "https://github.com/rsnavarro-pe/Uniform-Open-Channel",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
   {
     "name": "Unit-Converter",
     "url": "https://github.com/rsnavarro-pe/Unit-Converter",
-    "description": "Unit Converter · a RSN Engineering Tool",
+    "description": "Unit Converter \u00b7 a RSN Engineering Tool",
     "isPrivate": true,
-    "updatedAt": "2026-11-10",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_HNFmAzF12NMqHe1bxgk3zEkHnQnY",
@@ -1283,27 +1343,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/unit-converter",
         "gitRepo": "rsnavarro-pe/Unit-Converter",
         "gitUrl": "https://github.com/rsnavarro-pe/Unit-Converter",
-        "updatedAt": "2026-11-10"
-      }
-    ]
-  },
-  {
-    "name": "water_meter_install",
-    "url": "https://github.com/rsnavarro-pe/water_meter_install",
-    "description": "water meter installation",
-    "isPrivate": true,
-    "updatedAt": "2026-10-19",
-    "linkedVercel": [
-      {
-        "id": "prj_JRohFwG3voEz1L2AyplaMnheTAAA",
-        "name": "water-meter-install",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://water-meter-install.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-meter-install",
-        "gitRepo": "rsnavarro-pe/water_meter_install",
-        "gitUrl": "https://github.com/rsnavarro-pe/water_meter_install",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1312,7 +1352,7 @@
     "url": "https://github.com/rsnavarro-pe/Water-Demand",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_HCNKrNoPyQBq0aab8cqBZt3txy0R",
@@ -1323,7 +1363,27 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-demand",
         "gitRepo": "rsnavarro-pe/Water-Demand",
         "gitUrl": "https://github.com/rsnavarro-pe/Water-Demand",
-        "updatedAt": "2026-10-19"
+        "updatedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "name": "water_meter_install",
+    "url": "https://github.com/rsnavarro-pe/water_meter_install",
+    "description": "water meter installation",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_JRohFwG3voEz1L2AyplaMnheTAAA",
+        "name": "water-meter-install",
+        "framework": "Other",
+        "nodeVersion": "24.x",
+        "liveUrl": "https://water-meter-install.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-meter-install",
+        "gitRepo": "rsnavarro-pe/water_meter_install",
+        "gitUrl": "https://github.com/rsnavarro-pe/water_meter_install",
+        "updatedAt": "2026-11-12"
       }
     ]
   },
@@ -1332,7 +1392,7 @@
     "url": "https://github.com/rsnavarro-pe/Weir-Calculator",
     "description": "Engineering Tool / Repository",
     "isPrivate": true,
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-12",
     "linkedVercel": [
       {
         "id": "prj_cY7Qu0R3NJTBpWQmvIw50HNFt3CH",
@@ -1343,7 +1403,7 @@
         "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/weir-calculator",
         "gitRepo": "rsnavarro-pe/Weir-Calculator",
         "gitUrl": "https://github.com/rsnavarro-pe/Weir-Calculator",
-        "updatedAt": "2026-11-10"
+        "updatedAt": "2026-11-12"
       }
     ]
   }
