@@ -17,7 +17,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Advanced-GIS-Workbench",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "GIS & Geospatial"
   },
   {
     "name": "Broad-Crested-Weir",
@@ -37,12 +38,13 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Broad-Crested-Weir",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "cad-works-web",
     "url": "https://github.com/rsnavarro-pe/cad-works-web",
-    "description": "CAD Works \u2014 Civil & CAD Engineering Web Application",
+    "description": "CADCraft AEC In-Browser CAD Drafting & Civil Drawing Suite",
     "isPrivate": true,
     "updatedAt": "2026-11-14",
     "linkedVercel": [
@@ -57,7 +59,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/cad-works-web",
         "updatedAt": "2026-11-14"
       }
-    ]
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "Circular-Culvert",
@@ -77,7 +80,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Circular-Culvert",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Claude-skills",
@@ -97,7 +101,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Claude-skills",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Data & Management Tools"
   },
   {
     "name": "ComboCalculator",
@@ -117,12 +122,13 @@
         "gitUrl": "https://github.com/rsnavarro-pe/ComboCalculator",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Data & Management Tools"
   },
   {
     "name": "construction-daily",
     "url": "https://github.com/rsnavarro-pe/construction-daily",
-    "description": "construction daily report",
+    "description": "Civil Construction Daily Field Inspection Logs & Progress Reports",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
@@ -137,7 +143,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/construction-daily",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "csv-purifier-studio",
@@ -157,7 +164,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/csv-purifier-studio",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Data & Management Tools"
   },
   {
     "name": "Engineering_Resources",
@@ -177,67 +185,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Engineering_Resources",
         "updatedAt": "2026-11-12"
       }
-    ]
-  },
-  {
-    "name": "EPANET-Data-Builder",
-    "url": "https://github.com/rsnavarro-pe/EPANET-Data-Builder",
-    "description": "Engineering Tool / Repository",
-    "isPrivate": true,
-    "updatedAt": "2026-11-12",
-    "linkedVercel": [
-      {
-        "id": "prj_hjqtdnndhAfyXs0skEvGiaNMkqvP",
-        "name": "epanet-data-builder",
-        "framework": "Other",
-        "nodeVersion": "26.x",
-        "liveUrl": "https://epanet-data-builder.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-data-builder",
-        "gitRepo": "rsnavarro-pe/EPANET-Data-Builder",
-        "gitUrl": "https://github.com/rsnavarro-pe/EPANET-Data-Builder",
-        "updatedAt": "2026-11-12"
-      }
-    ]
-  },
-  {
-    "name": "EPANET-File-Converter",
-    "url": "https://github.com/rsnavarro-pe/EPANET-File-Converter",
-    "description": "Engineering Tool / Repository",
-    "isPrivate": true,
-    "updatedAt": "2026-11-12",
-    "linkedVercel": [
-      {
-        "id": "prj_RsNy0GxEiGTuc9b6Cg50W9j4aHYz",
-        "name": "watergems-to-epanet-converter",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://watergems-to-epanet-converter.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/watergems-to-epanet-converter",
-        "gitRepo": "rsnavarro-pe/EPANET-File-Converter",
-        "gitUrl": "https://github.com/rsnavarro-pe/EPANET-File-Converter",
-        "updatedAt": "2026-11-12"
-      }
-    ]
-  },
-  {
-    "name": "EPANET-Solver",
-    "url": "https://github.com/rsnavarro-pe/EPANET-Solver",
-    "description": "Engineering Tool / Repository",
-    "isPrivate": true,
-    "updatedAt": "2026-11-12",
-    "linkedVercel": [
-      {
-        "id": "prj_ohjJ3wT6POGhAlQpSbNNaofQZjMP",
-        "name": "epanet-solver",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://epanet-solver-zeta.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-solver",
-        "gitRepo": "rsnavarro-pe/EPANET-Solver",
-        "gitUrl": "https://github.com/rsnavarro-pe/EPANET-Solver",
-        "updatedAt": "2026-11-12"
-      }
-    ]
+    ],
+    "category": "Portfolios & Standards"
   },
   {
     "name": "EPANET_Toolkit",
@@ -257,7 +206,71 @@
         "gitUrl": "https://github.com/rsnavarro-pe/EPANET_Toolkit",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
+  },
+  {
+    "name": "EPANET-Data-Builder",
+    "url": "https://github.com/rsnavarro-pe/EPANET-Data-Builder",
+    "description": "Engineering Tool / Repository",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_hjqtdnndhAfyXs0skEvGiaNMkqvP",
+        "name": "epanet-data-builder",
+        "framework": "Other",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://epanet-data-builder.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-data-builder",
+        "gitRepo": "rsnavarro-pe/EPANET-Data-Builder",
+        "gitUrl": "https://github.com/rsnavarro-pe/EPANET-Data-Builder",
+        "updatedAt": "2026-11-12"
+      }
+    ],
+    "category": "Hydraulics & Water Resources"
+  },
+  {
+    "name": "EPANET-File-Converter",
+    "url": "https://github.com/rsnavarro-pe/EPANET-File-Converter",
+    "description": "Engineering Tool / Repository",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_RsNy0GxEiGTuc9b6Cg50W9j4aHYz",
+        "name": "watergems-to-epanet-converter",
+        "framework": "Other",
+        "nodeVersion": "24.x",
+        "liveUrl": "https://watergems-to-epanet-converter.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/watergems-to-epanet-converter",
+        "gitRepo": "rsnavarro-pe/EPANET-File-Converter",
+        "gitUrl": "https://github.com/rsnavarro-pe/EPANET-File-Converter",
+        "updatedAt": "2026-11-12"
+      }
+    ],
+    "category": "Hydraulics & Water Resources"
+  },
+  {
+    "name": "EPANET-Solver",
+    "url": "https://github.com/rsnavarro-pe/EPANET-Solver",
+    "description": "Engineering Tool / Repository",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_ohjJ3wT6POGhAlQpSbNNaofQZjMP",
+        "name": "epanet-solver",
+        "framework": "Other",
+        "nodeVersion": "24.x",
+        "liveUrl": "https://epanet-solver-zeta.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/epanet-solver",
+        "gitRepo": "rsnavarro-pe/EPANET-Solver",
+        "gitUrl": "https://github.com/rsnavarro-pe/EPANET-Solver",
+        "updatedAt": "2026-11-12"
+      }
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "File_Folder_Pro",
@@ -277,7 +290,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/File_Folder_Pro",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Data & Management Tools"
   },
   {
     "name": "Flow-of-Water",
@@ -297,7 +311,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Flow-of-Water",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Fluid-Mechanics",
@@ -405,7 +420,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Fluid-Mechanics: ASCE-7-Wind",
@@ -425,7 +441,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "Fluid-Mechanics: Crane-TP410",
@@ -445,7 +462,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Crane_TP410_Toolkit",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Fluid-Mechanics: Flow-of-Fluids-VPPF",
@@ -465,7 +483,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/blob/main/FlowOfFluids_VPPF.html",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Fluid-Mechanics: Hydraulic-Studio---Pipeline",
@@ -485,7 +504,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulic%20Studio-Pipeline",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Fluid-Mechanics: Hydraulics-Studio---Stormwater",
@@ -505,7 +525,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Hydraulics%20Studio%20Stormwater",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydrology & Stormwater"
   },
   {
     "name": "Fluid-Mechanics: HydroPuls-Flood-Routing",
@@ -525,7 +546,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/SFWMD%20Flood%20Routing",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydrology & Stormwater"
   },
   {
     "name": "Fluid-Mechanics: Pipe-Systems",
@@ -545,7 +567,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Pipe_Systems_Toolkit",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Fluid-Mechanics: Structural-Beam-RC",
@@ -565,7 +588,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Fluid-Mechanics/tree/main/Structural%20Toolkit",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "Folder_Explorer",
@@ -585,7 +609,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Folder_Explorer",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Data & Management Tools"
   },
   {
     "name": "GIS-Workbench",
@@ -605,7 +630,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/GIS-Workbench",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "GIS & Geospatial"
   },
   {
     "name": "GitHub-and-Vercel-Repo",
@@ -625,7 +651,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/GitHub-and-Vercel-Repo",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Portfolios & Standards"
   },
   {
     "name": "HGL-and-EGL",
@@ -645,7 +672,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/HGL-and-EGL",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "HW-Pipe-Flow",
@@ -665,7 +693,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/HW-Pipe-Flow",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Hydrology-Calculator",
@@ -685,7 +714,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Hydrology-Calculator",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydrology & Stormwater"
   },
   {
     "name": "Incompressible-Orifice-Flow",
@@ -705,7 +735,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Incompressible-Orifice-Flow",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Leak-Calculator",
@@ -725,7 +756,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Leak-Calculator",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Lift-Station-Design",
@@ -745,7 +777,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Lift-Station-Design",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Local_Drive_Dashboard",
@@ -765,7 +798,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Local_Drive_Dashboard",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "LS-BCWWS-Advanced",
@@ -785,7 +819,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/LS-BCWWS-Advanced",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "LS-BCWWS-Simple",
@@ -805,7 +840,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/LS-BCWWS-Simple",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Meter-Consumption",
@@ -825,7 +861,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Meter-Consumption",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Mobile-Folder-Pro",
@@ -845,7 +882,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Mobile-Folder-Pro",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Data & Management Tools"
   },
   {
     "name": "My_Portfolio",
@@ -865,7 +903,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/My_Portfolio",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Portfolios & Standards"
   },
   {
     "name": "My_Professional_Website",
@@ -885,7 +924,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/My_Professional_Website",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Portfolios & Standards"
   },
   {
     "name": "Non-Uniform-Flow",
@@ -905,12 +945,13 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Non-Uniform-Flow",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "open-pdf-studio",
     "url": "https://github.com/rsnavarro-pe/open-pdf-studio",
-    "description": "RSN PDF Studio \u2014 Browser-Based PDF Markup & Engineering Workbench",
+    "description": "Open PDF Studio: In-Browser Civil Plan PDF Markup & Technical Annotation",
     "isPrivate": false,
     "updatedAt": "2026-11-15",
     "linkedVercel": [
@@ -925,7 +966,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/open-pdf-studio",
         "updatedAt": "2026-11-15"
       }
-    ]
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "Orifice-Calculator",
@@ -945,7 +987,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Orifice-Calculator",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Partially-Full-Pipe-Flow",
@@ -965,12 +1008,13 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Partially-Full-Pipe-Flow",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "PayApp-Tracker",
     "url": "https://github.com/rsnavarro-pe/PayApp-Tracker",
-    "description": "Engineering Tool / Repository",
+    "description": "AEC Construction Progress Payment Application Tracking",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
@@ -985,7 +1029,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/PayApp-Tracker",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "Personal-Wikipedia",
@@ -1005,7 +1050,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Personal-Wikipedia",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Portfolios & Standards"
   },
   {
     "name": "pipeline-hydraulics",
@@ -1025,12 +1071,13 @@
         "gitUrl": "https://github.com/rsnavarro-pe/pipeline-hydraulics",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "plan-works-web",
     "url": "https://github.com/rsnavarro-pe/plan-works-web",
-    "description": "PlanWorks \u2014 Civil Infrastructure & Plan Review Web Platform",
+    "description": "Civil & Architectural Plan Review, Measurement, & Takeoff Viewer",
     "isPrivate": true,
     "updatedAt": "2026-11-15",
     "linkedVercel": [
@@ -1045,7 +1092,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/plan-works-web",
         "updatedAt": "2026-11-15"
       }
-    ]
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "Pressurized-Flow",
@@ -1065,32 +1113,13 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Pressurized-Flow",
         "updatedAt": "2026-11-12"
       }
-    ]
-  },
-  {
-    "name": "Project-Management-Suite",
-    "url": "https://github.com/rsnavarro-pe/Project-Management-Suite",
-    "description": "Project Management Suite",
-    "isPrivate": true,
-    "updatedAt": "2026-11-12",
-    "linkedVercel": [
-      {
-        "id": "prj_RI4r1BCP72iEfcrPEwYcysmu5cc5",
-        "name": "project-management-suite",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://project-management-suite-dun.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-management-suite",
-        "gitRepo": "rsnavarro-pe/Project-Management-Suite",
-        "gitUrl": "https://github.com/rsnavarro-pe/Project-Management-Suite",
-        "updatedAt": "2026-11-12"
-      }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Project_Manager",
     "url": "https://github.com/rsnavarro-pe/Project_Manager",
-    "description": "Engineering Tool / Repository",
+    "description": "Civil Project Task & Schedule Manager",
     "isPrivate": true,
     "updatedAt": "2026-11-15",
     "linkedVercel": [
@@ -1105,7 +1134,29 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Project_Manager",
         "updatedAt": "2026-11-15"
       }
-    ]
+    ],
+    "category": "AEC & Civil Engineering"
+  },
+  {
+    "name": "Project-Management-Suite",
+    "url": "https://github.com/rsnavarro-pe/Project-Management-Suite",
+    "description": "AEC Civil Engineering Project Management & Delivery Suite",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_RI4r1BCP72iEfcrPEwYcysmu5cc5",
+        "name": "project-management-suite",
+        "framework": "Other",
+        "nodeVersion": "24.x",
+        "liveUrl": "https://project-management-suite-dun.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/project-management-suite",
+        "gitRepo": "rsnavarro-pe/Project-Management-Suite",
+        "gitUrl": "https://github.com/rsnavarro-pe/Project-Management-Suite",
+        "updatedAt": "2026-11-12"
+      }
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "Pump-Station",
@@ -1125,7 +1176,29 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Pump-Station",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
+  },
+  {
+    "name": "rsn-calcsheet",
+    "url": "https://github.com/rsnavarro-pe/rsn-calcsheet",
+    "description": "RSN CalcSheet — US Customary Structural & Civil/Site Engineering Calculation Webapp",
+    "isPrivate": false,
+    "updatedAt": "2026-11-15",
+    "linkedVercel": [
+      {
+        "id": "prj_xzG05mRKEmpFGXbK3CsH73m3BPrQ",
+        "name": "rsn-calcsheet",
+        "framework": "Other",
+        "nodeVersion": "26.x",
+        "liveUrl": "https://rsn-calcsheet.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/rsn-calcsheet",
+        "gitRepo": "rsnavarro-pe/rsn-calcsheet",
+        "gitUrl": "https://github.com/rsnavarro-pe/rsn-calcsheet",
+        "updatedAt": "2026-11-15"
+      }
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "RSN-Calculator",
@@ -1145,7 +1218,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/RSN-Calculator",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Data & Management Tools"
   },
   {
     "name": "RSN-SWMM-Toolkit",
@@ -1165,7 +1239,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/RSN-SWMM-Toolkit",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydrology & Stormwater"
   },
   {
     "name": "SFWMD-Flood-Routing",
@@ -1185,7 +1260,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/SFWMD-Flood-Routing",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydrology & Stormwater"
   },
   {
     "name": "SFWMD-Methodology",
@@ -1205,7 +1281,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/SFWMD-Methodology",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Shapefile-Viewer",
@@ -1225,7 +1302,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Shapefile-Viewer",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "GIS & Geospatial"
   },
   {
     "name": "Sharp-Crested-Weir",
@@ -1245,7 +1323,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Sharp-Crested-Weir",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Storm-Drain",
@@ -1265,7 +1344,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Storm-Drain",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydrology & Stormwater"
   },
   {
     "name": "Storm-Inlet-Capacity",
@@ -1285,7 +1365,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Storm-Inlet-Capacity",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydrology & Stormwater"
   },
   {
     "name": "Time-of-Concentration",
@@ -1305,7 +1386,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Time-of-Concentration",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydrology & Stormwater"
   },
   {
     "name": "Uniform-Open-Channel",
@@ -1325,12 +1407,13 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Uniform-Open-Channel",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Unit-Converter",
     "url": "https://github.com/rsnavarro-pe/Unit-Converter",
-    "description": "Unit Converter \u00b7 a RSN Engineering Tool",
+    "description": "Unit Converter · a RSN Engineering Tool",
     "isPrivate": true,
     "updatedAt": "2026-11-12",
     "linkedVercel": [
@@ -1345,7 +1428,29 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Unit-Converter",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Data & Management Tools"
+  },
+  {
+    "name": "water_meter_install",
+    "url": "https://github.com/rsnavarro-pe/water_meter_install",
+    "description": "Civil Utility Water Meter Installation QA/QC & Inspection Log",
+    "isPrivate": true,
+    "updatedAt": "2026-11-12",
+    "linkedVercel": [
+      {
+        "id": "prj_JRohFwG3voEz1L2AyplaMnheTAAA",
+        "name": "water-meter-install",
+        "framework": "Other",
+        "nodeVersion": "24.x",
+        "liveUrl": "https://water-meter-install.vercel.app",
+        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-meter-install",
+        "gitRepo": "rsnavarro-pe/water_meter_install",
+        "gitUrl": "https://github.com/rsnavarro-pe/water_meter_install",
+        "updatedAt": "2026-11-12"
+      }
+    ],
+    "category": "AEC & Civil Engineering"
   },
   {
     "name": "Water-Demand",
@@ -1365,27 +1470,8 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Water-Demand",
         "updatedAt": "2026-11-12"
       }
-    ]
-  },
-  {
-    "name": "water_meter_install",
-    "url": "https://github.com/rsnavarro-pe/water_meter_install",
-    "description": "water meter installation",
-    "isPrivate": true,
-    "updatedAt": "2026-11-12",
-    "linkedVercel": [
-      {
-        "id": "prj_JRohFwG3voEz1L2AyplaMnheTAAA",
-        "name": "water-meter-install",
-        "framework": "Other",
-        "nodeVersion": "24.x",
-        "liveUrl": "https://water-meter-install.vercel.app",
-        "dashboardUrl": "https://vercel.com/rsnavarro-pes-projects/water-meter-install",
-        "gitRepo": "rsnavarro-pe/water_meter_install",
-        "gitUrl": "https://github.com/rsnavarro-pe/water_meter_install",
-        "updatedAt": "2026-11-12"
-      }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   },
   {
     "name": "Weir-Calculator",
@@ -1405,6 +1491,7 @@
         "gitUrl": "https://github.com/rsnavarro-pe/Weir-Calculator",
         "updatedAt": "2026-11-12"
       }
-    ]
+    ],
+    "category": "Hydraulics & Water Resources"
   }
 ]
